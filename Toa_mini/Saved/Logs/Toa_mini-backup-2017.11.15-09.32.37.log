@@ -1,0 +1,1417 @@
+﻿Log file open, 11/15/17 08:56:05
+LogInit:Display: Running engine for game: Toa_mini
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(-1454360183) SRandInit(-1454360183).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.076544
+LogPluginManager: Loaded Plugin Paper2D, From C:/apps/Epic Games/4.14/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/apps/Epic Games/4.14/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/apps/Epic Games/4.14/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/apps/Epic Games/4.14/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/apps/Epic Games/4.14/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/apps/Epic Games/4.14/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/apps/Epic Games/4.14/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/apps/Epic Games/4.14/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/apps/Epic Games/4.14/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/apps/Epic Games/4.14/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/apps/Epic Games/4.14/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/apps/Epic Games/4.14/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/apps/Epic Games/4.14/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin AudioCapture, From C:/apps/Epic Games/4.14/Engine/Plugins/Editor/AudioCapture/AudioCapture.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/apps/Epic Games/4.14/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/apps/Epic Games/4.14/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/apps/Epic Games/4.14/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/apps/Epic Games/4.14/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/apps/Epic Games/4.14/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/apps/Epic Games/4.14/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/apps/Epic Games/4.14/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/apps/Epic Games/4.14/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/apps/Epic Games/4.14/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/apps/Epic Games/4.14/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/apps/Epic Games/4.14/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/apps/Epic Games/4.14/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/apps/Epic Games/4.14/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/apps/Epic Games/4.14/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/apps/Epic Games/4.14/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/apps/Epic Games/4.14/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/apps/Epic Games/4.14/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/apps/Epic Games/4.14/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/apps/Epic Games/4.14/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/apps/Epic Games/4.14/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/apps/Epic Games/4.14/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/apps/Epic Games/4.14/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/apps/Epic Games/4.14/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/apps/Epic Games/4.14/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/apps/Epic Games/4.14/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/apps/Epic Games/4.14/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/apps/Epic Games/4.14/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/apps/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/apps/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGameCircle, From C:/apps/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGameCircle/OnlineSubsystemGameCircle.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/apps/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/apps/Epic Games/4.14/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/apps/Epic Games/4.14/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/apps/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/apps/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/apps/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/apps/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/apps/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/apps/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/apps/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin MIDIDevice, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/MIDIDevice/MIDIDevice.uplugin
+LogPluginManager: Loaded Plugin MobilePatchingUtils, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/MobilePatchingUtils/MobilePatchingUtils.uplugin
+LogPluginManager: Loaded Plugin Ansel, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/Nvidia/Ansel/Ansel.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/apps/Epic Games/4.14/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/apps/Epic Games/4.14/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/apps/Epic Games/4.14/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogPluginManager: Loaded Plugin EditorTests, From C:/apps/Epic Games/4.14/Engine/Plugins/Tests/EditorTests/EditorTests.uplugin
+LogPluginManager: Loaded Plugin FbxAutomationTestBuilder, From C:/apps/Epic Games/4.14/Engine/Plugins/Tests/FbxAutomationTestBuilder/FbxAutomationTestBuilder.uplugin
+LogPluginManager: Loaded Plugin FunctionalTestingEditor, From C:/apps/Epic Games/4.14/Engine/Plugins/Tests/FunctionalTestingEditor/FunctionalTestingEditor.uplugin
+LogPluginManager: Loaded Plugin RuntimeTests, From C:/apps/Epic Games/4.14/Engine/Plugins/Tests/RuntimeTests/RuntimeTests.uplugin
+LogPluginManager: Loaded Plugin ScreenshotTools, From C:/apps/Epic Games/4.14/Engine/Plugins/Tests/ScreenshotTools/ScreenshotTools.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.14-CL-3249277
+LogInit: Engine Version: 4.14.3-3249277+++UE4+Release-4.14
+LogInit: Compatible Engine Version: 4.14.0-3195953+++UE4+Release-4.14
+LogInit: Net CL: 3195953
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 7
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 8
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 17
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 12
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 1
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Jan  6 2017 10:49:43
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.14
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/apps/Epic Games/4.14/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.11.14-19.56.06:225][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.14-19.56.06:225][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.11.14-19.56.06:268][  0]LogInit: Computer: 1806C022
+[2017.11.14-19.56.06:268][  0]LogInit: User: jacobclo6858
+[2017.11.14-19.56.06:268][  0]LogInit: CPU Page size=65536, Cores=4
+[2017.11.14-19.56.06:268][  0]LogInit: High frequency timer resolution =3.323632 MHz
+[2017.11.14-19.56.06:268][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2017.11.14-19.56.06:268][  0]LogMemory: Platform Memory Stats for Windows
+[2017.11.14-19.56.06:268][  0]LogMemory: Process Physical Memory: 265.98 MB used, 265.98 MB peak
+[2017.11.14-19.56.06:268][  0]LogMemory: Process Virtual Memory: 265.55 MB used, 265.55 MB peak
+[2017.11.14-19.56.06:268][  0]LogMemory: Physical Memory: 5562.14 MB used,  2588.02 MB free, 8150.16 MB total
+[2017.11.14-19.56.06:268][  0]LogMemory: Virtual Memory: 674.64 MB used,  2588.02 MB free, 8388608.00 MB total
+[2017.11.14-19.56.06:309][  0]LogTextLocalizationManager: No specific translations for ('en-NZ') exist, so ('en') translations will be used.
+[2017.11.14-19.56.07:119][  0]LogD3D11RHI: D3D11 adapters:
+[2017.11.14-19.56.07:136][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 760' (Feature Level 11_0)
+[2017.11.14-19.56.07:136][  0]LogD3D11RHI:       1990/0/3819 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2017.11.14-19.56.07:136][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.11.14-19.56.07:141][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.11.14-19.56.07:141][  0]LogD3D11RHI:     GPU DeviceId: 0x1187 (for the marketing name, search the web for "GPU Device Id")
+[2017.11.14-19.56.07:141][  0]LogWindows: EnumDisplayDevices:
+[2017.11.14-19.56.07:141][  0]LogWindows:    0. 'NVIDIA GeForce GTX 760' (P:1 D:1)
+[2017.11.14-19.56.07:141][  0]LogWindows:    1. 'NVIDIA GeForce GTX 760' (P:0 D:1)
+[2017.11.14-19.56.07:141][  0]LogWindows:    2. 'NVIDIA GeForce GTX 760' (P:0 D:0)
+[2017.11.14-19.56.07:141][  0]LogWindows:    3. 'NVIDIA GeForce GTX 760' (P:0 D:0)
+[2017.11.14-19.56.07:141][  0]LogWindows:    4. 'RDPDD Chained DD' (P:0 D:0)
+[2017.11.14-19.56.07:141][  0]LogWindows:    5. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2017.11.14-19.56.07:141][  0]LogWindows:    6. 'RDP Reflector Display Driver' (P:0 D:0)
+[2017.11.14-19.56.07:142][  0]LogWindows:    7. 'Mirage Driver' (P:0 D:0)
+[2017.11.14-19.56.07:142][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2017.11.14-19.56.07:142][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 760
+[2017.11.14-19.56.07:142][  0]LogD3D11RHI:   Driver Version: 382.05 (internal:22.21.13.8205, unified:382.05)
+[2017.11.14-19.56.07:142][  0]LogD3D11RHI:      Driver Date: 5-1-2017
+[2017.11.14-19.56.07:142][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.11.14-19.56.07:149][  0]LogD3D11RHI:Warning: Timestamp queries are currently disabled on this hardware due to instability. Realtime GPU stats will not be available. You can override this behaviour by setting r.NVIDIATimestampWorkaround to 0
+[2017.11.14-19.56.07:149][  0]LogD3D11RHI: Async texture creation enabled
+[2017.11.14-19.56.07:164][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2017.11.14-19.56.07:164][  0]LogShaderCompilers: Guid format shader working directory is -8 characters bigger than the processId version (D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Intermediate/Shaders/WorkingDirectory/2628/).
+[2017.11.14-19.56.07:164][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'D:/Users/jacob.clo6858/AppData/Local/Temp/UnrealShaderWorkingDir/01B91E3549D30555B362F9B35F358DA5/'.
+[2017.11.14-19.56.07:164][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.11.14-19.56.09:049][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.11.14-19.56.09:140][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2017.11.14-19.56.09:239][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2017.11.14-19.56.09:342][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2017.11.14-19.56.09:459][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2017.11.14-19.56.09:553][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.11.14-19.56.09:646][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.11.14-19.56.09:743][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.11.14-19.56.09:821][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.11.14-19.56.09:915][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.11.14-19.56.10:014][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.11.14-19.56.10:111][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.11.14-19.56.10:201][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.11.14-19.56.10:292][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.11.14-19.56.10:382][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.11.14-19.56.10:603][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.11.14-19.56.10:603][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.11.14-19.56.10:670][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.11.14-19.56.10:810][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.11.14-19.56.10:862][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.11.14-19.56.10:957][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.11.14-19.56.11:053][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.11.14-19.56.11:146][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.11.14-19.56.11:238][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.11.14-19.56.11:238][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.11.14-19.56.11:904][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.11.14-19.56.11:945][  0]LogDerivedDataCache: Loaded boot cache 0.04s 50MB D:/Users/jacob.clo6858/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.11.14-19.56.11:945][  0]LogDerivedDataCache:Display: Loaded Boot cache: D:/Users/jacob.clo6858/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
+[2017.11.14-19.56.11:945][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.11.14-19.56.11:945][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.11.14-19.56.11:945][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.11.14-19.56.11:945][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.11.14-19.56.11:961][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.11.14-19.56.11:972][  0]LogDerivedDataCache: Using Local data cache path D:/Users/jacob.clo6858/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.11.14-19.56.12:219][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.14-19.56.12:222][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.11.14-19.56.12:505][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.11.14-19.56.12:580][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.11.14-19.56.12:653][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.11.14-19.56.12:653][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2017.11.14-19.56.12:653][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.11.14-19.56.13:214][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: toa_mini, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 2209667450
+[2017.11.14-19.56.13:284][  0]LogAssetRegistry: FAssetRegistry took 0.0204 seconds to start up
+[2017.11.14-19.56.13:339][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.019403 seconds
+[2017.11.14-19.56.13:345][  0]LogUObjectArray: 31946 objects as part of root set at end of initial load.
+[2017.11.14-19.56.13:345][  0]LogUObjectAllocator: 6935848 out of 0 bytes used by permanent object pool.
+[2017.11.14-19.56.13:345][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.11.14-19.56.13:452][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.11.14-19.56.14:701][  0]LogSlate: Using Freetype 2.6.0
+[2017.11.14-19.56.14:702][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.14-19.56.14:702][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.14-19.56.16:128][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.11.14-19.56.16:179][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.11.14-19.56.16:632][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.11.14-19.56.17:217][  0]SourceControl: Info Source control is disabled
+[2017.11.14-19.56.17:320][  0]SourceControl: Info Source control is disabled
+[2017.11.14-19.56.17:394][  0]SourceControl: Info Source control is disabled
+[2017.11.14-19.56.17:468][  0]SourceControl: Info Source control is disabled
+[2017.11.14-19.56.19:468][  0]LogEngine: Initializing Engine...
+[2017.11.14-19.56.19:469][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.11.14-19.56.19:811][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.11.14-19.56.19:822][  0]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.14-19.56.19:837][  0]LogInit: FAudioDevice initialized.
+[2017.11.14-19.56.19:859][  0]LogDerivedDataCache: Saved boot cache 0.02s 50MB D:/Users/jacob.clo6858/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.11.14-19.56.19:863][  0]LogInit: Texture streaming: Enabled
+[2017.11.14-19.56.20:264][  0]LogInit: Transaction tracking system initialized
+[2017.11.14-19.56.20:881][  0]BlueprintLog: New page: Editor Load
+[2017.11.14-19.56.22:390][  0]LocalizationService: Info Localization service is disabled
+[2017.11.14-19.56.23:496][  0]LogConsoleResponse:Display: 
+[2017.11.14-19.56.23:661][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.11.14-19.56.23:661][  0]LogCook:Display: Mobile HDR setting 1
+[2017.11.14-19.56.23:887][  0]LogFileCache: Scanning file cache for directory 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/' took 0.01s
+[2017.11.14-19.56.25:233][  0]SourceControl: Info Source control is disabled
+[2017.11.14-19.56.25:234][  0]Cmd: MAP LOAD FILE="D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Menu/main_menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.14-19.56.25:234][  0]LightingResults: New page: Lighting Build
+[2017.11.14-19.56.25:304][  0]MapCheck: New page: Map Check
+[2017.11.14-19.56.25:304][  0]LightingResults: New page: Lighting Build
+[2017.11.14-19.56.25:418][  0]LogAIModule: Creating AISystem for world main_menu
+[2017.11.14-19.56.25:419][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.14-19.56.25:428][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.14-19.56.25:538][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 109.382ms to complete.
+[2017.11.14-19.56.25:538][  0]LogFileHelpers: Loading map 'main_menu' took 0.304
+[2017.11.14-19.56.26:247][  0]LogCollectionManager: Loaded 1 collections in 0.002107 seconds
+[2017.11.14-19.56.26:533][  0]LogFileCache: Scanning file cache for directory 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/Collections/' took 0.01s
+[2017.11.14-19.56.26:534][  0]LogFileCache: Scanning file cache for directory 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Developers/jacobclo6858/Collections/' took 0.01s
+[2017.11.14-19.56.26:534][  0]LogFileCache: Scanning file cache for directory 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Collections/' took 0.01s
+[2017.11.14-19.56.26:534][  0]LogCollectionManager: Rebuilt the GUID cache for 1 collections in 0.000005 seconds
+[2017.11.14-19.56.26:534][  0]LogCollectionManager: Rebuilt the hierarchy cache for 1 collections in 0.000000 seconds
+[2017.11.14-19.56.26:552][  0]LogContentBrowser: Native class hierarchy populated in 0.0119 seconds. Added 2190 classes and 428 folders.
+[2017.11.14-19.56.26:648][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.11.14-19.56.26:648][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.11.14-19.56.26:687][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0005 seconds. Added 13 classes and 0 folders.
+[2017.11.14-19.56.26:836][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2017.11.14-19.56.27:660][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2017.11.14-19.56.27:785][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2017.11.14-19.56.28:081][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.11.14-19.56.28:403][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.11.14-19.56.28:632][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.11.14-19.56.28:632][  0]LogLoad: (Engine Initialization) Total time: 26.47 seconds
+[2017.11.14-19.56.28:632][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.15 seconds
+[2017.11.14-19.56.28:632][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.11.14-19.56.28:632][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.11.14-19.56.28:641][  0]LogOcInput: OculusInput pre-init called
+[2017.11.14-19.56.28:752][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.11.14-19.56.29:285][  0]LogRenderer: Reallocating scene render targets to support 804x544 NumSamples 1 (Frame:2).
+[2017.11.14-19.56.29:525][  2]LogAssetRegistry: Asset discovery search completed in 16.2620 seconds
+[2017.11.14-19.56.29:525][  2]LogCollectionManager: Rebuilt the object cache for 1 collections in 0.000005 seconds (found 0 objects)
+[2017.11.14-19.56.29:525][  2]LogCollectionManager: Fixed up redirectors for 1 collections in 0.000019 seconds (updated 0 objects)
+[2017.11.14-19.57.29:458][ 94]LogTexture:Display: Building textures: UE4Man_Logo_N (BC5)
+[2017.11.14-19.57.29:579][ 94]LogTexture:Display: Building textures: T_ML_Rubber_Blue_01_D (AutoDXT)
+[2017.11.14-19.57.29:743][ 94]LogTexture:Display: Building textures: T_ML_Rubber_Blue_01_N (BC5)
+[2017.11.14-19.57.29:772][ 94]LogTexture:Display: Building textures: T_ML_Aluminum01 (AutoDXT)
+[2017.11.14-19.57.29:918][ 94]LogTexture:Display: Building textures: T_ML_Aluminum01_N (BC5)
+[2017.11.14-19.57.30:003][ 94]LogTexture:Display: Building textures: UE4_Mannequin_MAT_MASKA (AutoDXT)
+[2017.11.14-19.57.30:657][ 94]LogTexture:Display: Building textures: UE4_Mannequin__normals (BC5)
+[2017.11.14-19.57.30:995][ 94]LogTexture:Display: Building textures: UE4_LOGO_CARD (AutoDXT)
+[2017.11.14-19.57.31:540][ 94]LogStaticMesh: Building static mesh Scene...
+[2017.11.14-19.57.39:673][ 94]LogStaticMesh: Built static mesh [8.15s] /Game/ThirdPersonBP/Maps/Scene.Scene
+[2017.11.14-19.57.39:733][ 94]LogTexture:Display: Building textures: Ui_Patu_Wood_1 (AutoDXT)
+[2017.11.14-19.57.39:906][ 94]LogTexture:Display: Building textures: Ui_Patu_Stone_2 (AutoDXT)
+[2017.11.14-19.57.40:065][ 94]LogTexture:Display: Building textures: Ui_Patu_Greenstone_4 (AutoDXT)
+[2017.11.14-19.57.40:221][ 94]LogTexture:Display: Building textures: Ui_Patu_Bone_3 (AutoDXT)
+[2017.11.14-19.57.40:437][ 94]LogTexture:Display: Building textures: Health_Bar (AutoDXT)
+[2017.11.14-19.57.40:947][ 94]LogMaterial: Missing cached shader map for material WorldGridMaterial, compiling. 
+[2017.11.14-19.57.44:922][ 94]LogAIModule: Creating AISystem for world gameLevel
+[2017.11.14-19.57.45:812][ 94]Cmd: MAP LOAD FILE="D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/ThirdPersonBP/Maps/gameLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.14-19.57.45:812][ 94]LightingResults: New page: Lighting Build
+[2017.11.14-19.57.45:813][ 94]LoadErrors: New page: Loading map: gameLevel.umap
+[2017.11.14-19.57.45:813][ 94]MapCheck: New page: Map Check
+[2017.11.14-19.57.45:813][ 94]LightingResults: New page: Lighting Build
+[2017.11.14-19.57.46:248][ 94]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.14-19.57.46:469][ 94]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.14-19.57.46:576][ 94]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 106.731ms to complete.
+[2017.11.14-19.57.46:576][ 94]LogFileHelpers: Loading map 'gameLevel' took 0.778
+[2017.11.14-19.59.24:336][427]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 G:\GDV220 - Rapid Game Prototyping\Game 2\Rock1.fbx)
+[2017.11.14-19.59.24:449][427]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.11.14-19.59.24:449][427]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2017.11.14-19.59.24:449][427]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2017.11.14-19.59.24:449][427]LogFbx: ItemName: Geometry, ItemCount : 1
+[2017.11.14-19.59.24:450][427]LogFbx: ItemName: Material, ItemCount : 1
+[2017.11.14-19.59.24:450][427]LogFbx: ItemName: Model, ItemCount : 1
+[2017.11.14-19.59.24:469][427]LogFbx: Loading FBX Scene from G:\GDV220 - Rapid Game Prototyping\Game 2\Rock1.fbx
+[2017.11.14-19.59.24:519][427]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.14-19.59.28:011][427]LogFbx: Loading FBX Scene from G:\GDV220 - Rapid Game Prototyping\Game 2\Rock1.fbx
+[2017.11.14-19.59.28:017][427]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.14-19.59.28:057][427]LogFbx:Warning: Triangulating static mesh LOD3
+[2017.11.14-19.59.28:135][427]LogStaticMesh: Building static mesh Rock1...
+[2017.11.14-19.59.28:142][427]LogStaticMesh: Built static mesh [0.01s] /Game/Jacob_Assets/Rock1.Rock1
+[2017.11.14-19.59.28:517][427]FBXImport:Warning: Warning No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.11.14-19.59.28:637][427]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 G:\GDV220 - Rapid Game Prototyping\Game 2\Rock2.fbx)
+[2017.11.14-19.59.31:313][427]LogFbx: Loading FBX Scene from G:\GDV220 - Rapid Game Prototyping\Game 2\Rock2.fbx
+[2017.11.14-19.59.31:319][427]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.14-19.59.31:321][427]LogFbx:Warning: Triangulating static mesh LOD4
+[2017.11.14-19.59.31:342][427]LogStaticMesh: Building static mesh Rock2...
+[2017.11.14-19.59.31:348][427]LogStaticMesh: Built static mesh [0.01s] /Game/Jacob_Assets/Rock2.Rock2
+[2017.11.14-19.59.31:384][427]FBXImport:Warning: Warning No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.11.14-19.59.31:451][427]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 G:\GDV220 - Rapid Game Prototyping\Game 2\Rock3.fbx)
+[2017.11.14-19.59.31:459][427]LogFbx: Loading FBX Scene from G:\GDV220 - Rapid Game Prototyping\Game 2\Rock3.fbx
+[2017.11.14-19.59.31:465][427]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.14-19.59.31:467][427]LogFbx:Warning: Triangulating static mesh LOD2
+[2017.11.14-19.59.31:489][427]LogStaticMesh: Building static mesh Rock3...
+[2017.11.14-19.59.31:495][427]LogStaticMesh: Built static mesh [0.01s] /Game/Jacob_Assets/Rock3.Rock3
+[2017.11.14-19.59.31:521][427]FBXImport:Warning: Warning No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.11.14-19.59.31:583][427]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 G:\GDV220 - Rapid Game Prototyping\Game 2\Tree1.fbx)
+[2017.11.14-19.59.31:591][427]LogFbx: Loading FBX Scene from G:\GDV220 - Rapid Game Prototyping\Game 2\Tree1.fbx
+[2017.11.14-19.59.31:597][427]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.14-19.59.31:600][427]LogLinker: Can't find file '/Game/Jacob_Assets/Tree1_Texture'
+[2017.11.14-19.59.31:600][427]LogLinker: Can't find file '/Game/Jacob_Assets/Tree1_Texture'
+[2017.11.14-19.59.32:226][427]LogTexture:Display: Building textures: Tree1_Texture (AutoDXT)
+[2017.11.14-19.59.33:816][427]LogTexture:Display: Building textures: Tree1_Texture (AutoDXT)
+[2017.11.14-19.59.35:294][427]LogFbx:Warning: Triangulating static mesh pCone18
+[2017.11.14-19.59.35:345][427]LogStaticMesh: Building static mesh Tree1...
+[2017.11.14-19.59.35:375][427]LogStaticMesh: Built static mesh [0.03s] /Game/Jacob_Assets/Tree1.Tree1
+[2017.11.14-19.59.35:382][427]FBXImport:Warning: Warning No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.11.14-19.59.35:490][427]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 G:\GDV220 - Rapid Game Prototyping\Game 2\Tree2.fbx)
+[2017.11.14-19.59.35:499][427]LogFbx: Loading FBX Scene from G:\GDV220 - Rapid Game Prototyping\Game 2\Tree2.fbx
+[2017.11.14-19.59.35:507][427]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.14-19.59.35:509][427]LogLinker: Can't find file '/Game/Jacob_Assets/Tree2_Texture'
+[2017.11.14-19.59.35:509][427]LogLinker: Can't find file '/Game/Jacob_Assets/Tree2_Texture'
+[2017.11.14-19.59.35:575][427]LogTexture:Display: Building textures: Tree2_Texture (AutoDXT)
+[2017.11.14-19.59.36:706][427]LogTexture:Display: Building textures: Tree2_Texture (AutoDXT)
+[2017.11.14-19.59.37:769][427]LogFbx:Warning: Triangulating static mesh pCone18
+[2017.11.14-19.59.37:794][427]LogStaticMesh: Building static mesh Tree2...
+[2017.11.14-19.59.37:813][427]LogStaticMesh: Built static mesh [0.02s] /Game/Jacob_Assets/Tree2.Tree2
+[2017.11.14-19.59.37:818][427]FBXImport:Warning: Warning No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.11.14-19.59.38:078][427]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 G:\GDV220 - Rapid Game Prototyping\Game 2\Landscape LowPoly New.fbx)
+[2017.11.14-19.59.38:096][427]LogFbx: Loading FBX Scene from G:\GDV220 - Rapid Game Prototyping\Game 2\Landscape LowPoly New.fbx
+[2017.11.14-19.59.38:145][427]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.14-19.59.38:247][427]LogStaticMesh: Building static mesh Landscape_LowPoly_New...
+[2017.11.14-19.59.45:580][427]LogStaticMesh: Built static mesh [7.34s] /Game/Jacob_Assets/Landscape_LowPoly_New.Landscape_LowPoly_New
+[2017.11.14-19.59.45:782][427]FBXImport:Warning: Warning No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.11.14-20.00.04:513][205]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 G:\GDV220 - Rapid Game Prototyping\Game 2\Materials\Map Texture.png)
+[2017.11.14-20.00.08:753][205]LogTexture:Display: Building textures: Map_Texture (AutoDXT)
+[2017.11.14-20.00.54:556][205]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 G:\GDV220 - Rapid Game Prototyping\Game 2\Materials\Tree1 Texture.png)
+[2017.11.14-20.00.55:067][205]LogTexture:Display: Building textures: Tree1_Texture (AutoDXT)
+[2017.11.14-20.00.56:979][205]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 G:\GDV220 - Rapid Game Prototyping\Game 2\Materials\Tree2 Texture.png)
+[2017.11.14-20.00.57:187][205]LogTexture:Display: Building textures: Tree2_Texture (AutoDXT)
+[2017.11.14-20.01.27:148][267]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 G:\GDV220 - Rapid Game Prototyping\Prototype 3\Dummy.fbx)
+[2017.11.14-20.01.27:207][267]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.11.14-20.01.27:207][267]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2017.11.14-20.01.27:207][267]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2017.11.14-20.01.27:207][267]LogFbx: ItemName: NodeAttribute, ItemCount : 6
+[2017.11.14-20.01.27:207][267]LogFbx: ItemName: Model, ItemCount : 7
+[2017.11.14-20.01.27:207][267]LogFbx: ItemName: Geometry, ItemCount : 1
+[2017.11.14-20.01.27:208][267]LogFbx: ItemName: Material, ItemCount : 3
+[2017.11.14-20.01.27:208][267]LogFbx: ItemName: Texture, ItemCount : 2
+[2017.11.14-20.01.27:208][267]LogFbx: ItemName: Video, ItemCount : 2
+[2017.11.14-20.01.27:218][267]LogFbx: Loading FBX Scene from G:\GDV220 - Rapid Game Prototyping\Prototype 3\Dummy.fbx
+[2017.11.14-20.01.27:236][267]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.14-20.01.30:652][267]LogFbx: Loading FBX Scene from G:\GDV220 - Rapid Game Prototyping\Prototype 3\Dummy.fbx
+[2017.11.14-20.01.30:660][267]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.14-20.01.30:726][267]LogLinker: Can't find file '/Game/Jacob_Assets/lambert2'
+[2017.11.14-20.01.30:738][267]LogLinker: Can't find file '/Game/Jacob_Assets/lambert2'
+[2017.11.14-20.01.31:253][267]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2017.11.14-20.01.31:699][267]LogLinker: Can't find file '/Game/Jacob_Assets/Wood'
+[2017.11.14-20.01.31:699][267]LogLinker: Can't find file '/Game/Jacob_Assets/Wood'
+[2017.11.14-20.01.31:775][267]LogLinker: Can't find file '/Game/Jacob_Assets/Dum_Wood_Texture'
+[2017.11.14-20.01.31:775][267]LogLinker: Can't find file '/Game/Jacob_Assets/Dum_Wood_Texture'
+[2017.11.14-20.01.31:878][267]LogTexture:Display: Building textures: Dum_Wood_Texture (AutoDXT)
+[2017.11.14-20.01.32:210][267]LogMaterial: Missing cached shader map for material Wood, compiling. 
+[2017.11.14-20.01.32:534][267]LogLinker: Can't find file '/Game/Jacob_Assets/Readcoat'
+[2017.11.14-20.01.32:534][267]LogLinker: Can't find file '/Game/Jacob_Assets/Readcoat'
+[2017.11.14-20.01.32:535][267]LogLinker: Can't find file '/Game/Jacob_Assets/Dum_Costume_Texture'
+[2017.11.14-20.01.32:535][267]LogLinker: Can't find file '/Game/Jacob_Assets/Dum_Costume_Texture'
+[2017.11.14-20.01.32:539][267]LogTexture:Display: Building textures: Dum_Costume_Texture (AutoDXT)
+[2017.11.14-20.01.32:831][267]LogMaterial: Missing cached shader map for material Readcoat, compiling. 
+[2017.11.14-20.01.33:831][267]LogFbx:Warning: Triangulating static mesh pCylinder18
+[2017.11.14-20.01.34:122][267]LogStaticMesh: Building static mesh Dummy...
+[2017.11.14-20.01.34:321][267]LogStaticMesh: Built static mesh [0.26s] /Game/Jacob_Assets/Dummy.Dummy
+[2017.11.14-20.01.35:197][267]FBXImport:Warning: Warning No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.11.14-20.01.58:543][ 39]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Scene)
+[2017.11.14-20.01.59:313][ 40]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Scene)
+[2017.11.14-20.02.03:134][432]LogActorFactory: Actor Factory created Landscape_LowPoly_New
+[2017.11.14-20.02.03:655][484]LogActorFactory: Actor Factory created Landscape_LowPoly_New
+[2017.11.14-20.02.06:782][805]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.11.14-20.02.34:705][933]Cmd: TRANSACTION UNDO
+[2017.11.14-20.02.34:706][933]LogEditorTransaction: Undo Move Actors
+[2017.11.14-20.02.35:380][989]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Scene)
+[2017.11.14-20.02.36:829][156]Cmd: DELETE
+[2017.11.14-20.02.36:829][156]Cmd: ACTOR DELETE
+[2017.11.14-20.02.36:977][156]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.14-20.02.37:002][156]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2017.11.14-20.02.45:944][218]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Landscape_LowPoly_New)
+[2017.11.14-20.02.53:402][ 24]LogMaterial: Missing cached shader map for material MAT_Enviro, compiling. 
+[2017.11.14-20.03.20:067][ 17]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.14-20.03.27:470][892]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.14-20.03.30:932][277]Cmd: TRANSACTION UNDO
+[2017.11.14-20.03.30:932][277]LogEditorTransaction: Undo Rotate Actors
+[2017.11.14-20.03.32:333][420]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.11.14-20.03.33:063][500]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.11.14-20.03.33:459][544]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2017.11.14-20.04.46:962][218]LogMaterial: Missing cached shader map for material Tree1_Texture_Mat, compiling. 
+[2017.11.14-20.04.50:020][483]LogMaterial: Missing cached shader map for material Tree2_Texture_Mat, compiling. 
+[2017.11.14-20.05.00:274][  6]LogRenderer: Reallocating scene render targets to support 804x908 NumSamples 1 (Frame:30670).
+[2017.11.14-20.05.08:414][627]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jacob_Assets/Tree1" FILE="D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/Tree1.uasset" SILENT=true
+[2017.11.14-20.05.08:507][627]LogSavePackage: Save=91.97ms
+[2017.11.14-20.05.08:507][627]LogSavePackage: Moving 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/Tree1EFC77EE14144546DCB8D50B29AF7C028.tmp' to 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/Tree1.uasset'
+[2017.11.14-20.05.08:509][627]LogSavePackage:Display: Finished SavePackage D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/Tree1.uasset
+[2017.11.14-20.05.14:775][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jacob_Assets/Tree2" FILE="D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/Tree2.uasset" SILENT=true
+[2017.11.14-20.05.14:787][ 99]LogSavePackage: Save=9.88ms
+[2017.11.14-20.05.14:787][ 99]LogSavePackage: Moving 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/Tree208B6E2D14507AB11BDD33B8527FCF85D.tmp' to 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/Tree2.uasset'
+[2017.11.14-20.05.14:789][ 99]LogSavePackage:Display: Finished SavePackage D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/Tree2.uasset
+[2017.11.14-20.05.20:740][570]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jacob_Assets/Tree3" FILE="D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/Tree3.uasset" SILENT=true
+[2017.11.14-20.05.20:751][570]LogSavePackage: Save=9.81ms
+[2017.11.14-20.05.20:751][570]LogSavePackage: Moving 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/Tree3E987570446CE8A797D68769D3F4CEF41.tmp' to 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/Tree3.uasset'
+[2017.11.14-20.05.20:753][570]LogSavePackage:Display: Finished SavePackage D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/Tree3.uasset
+[2017.11.14-20.05.24:806][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jacob_Assets/Tree4" FILE="D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/Tree4.uasset" SILENT=true
+[2017.11.14-20.05.24:818][846]LogSavePackage: Save=10.06ms
+[2017.11.14-20.05.24:818][846]LogSavePackage: Moving 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/Tree4649069D44AE2953CA7D6DBB0C21D62B4.tmp' to 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/Tree4.uasset'
+[2017.11.14-20.05.24:819][846]LogSavePackage:Display: Finished SavePackage D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/Tree4.uasset
+[2017.11.14-20.05.29:334][258]LogMaterial: Missing cached shader map for material Tree1_Texture_Mat, compiling. 
+[2017.11.14-20.05.29:601][258]LogMaterial: Missing cached shader map for material Tree1_Texture_Mat, compiling. 
+[2017.11.14-20.05.29:611][258]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.05.29:635][258]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.11.14-20.05.30:181][260]LogMaterial: Missing cached shader map for material Tree2_Texture_Mat, compiling. 
+[2017.11.14-20.05.30:256][260]LogMaterial: Missing cached shader map for material Tree2_Texture_Mat, compiling. 
+[2017.11.14-20.05.30:270][260]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.05.30:297][260]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.11.14-20.05.30:544][266]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 23 instructions
+[2017.11.14-20.05.30:544][266]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2017.11.14-20.05.30:545][266]MaterialEditorStats: Info Texture samplers: 1/16
+[2017.11.14-20.05.31:272][299]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 23 instructions
+[2017.11.14-20.05.31:272][299]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2017.11.14-20.05.31:272][299]MaterialEditorStats: Info Texture samplers: 1/16
+[2017.11.14-20.05.36:451][706]LogMaterial: Missing cached shader map for material Tree2_Texture_Mat, compiling. 
+[2017.11.14-20.05.36:465][706]LogMaterial: Missing cached shader map for material Tree2_Texture_Mat, compiling. 
+[2017.11.14-20.05.36:476][706]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.05.38:368][836]LogMaterial: Missing cached shader map for material Tree2_Texture_Mat, compiling. 
+[2017.11.14-20.05.38:399][836]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.05.38:426][836]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.11.14-20.05.39:199][873]LogMaterialEditor: Applying material Tree2_Texture_Mat
+[2017.11.14-20.05.40:060][873]LogMaterial: Missing cached shader map for material Tree2_Texture_Mat, compiling. 
+[2017.11.14-20.05.40:120][873]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.05.40:161][873]LogMaterial: Missing cached shader map for material Tree2_Texture_Mat, compiling. 
+[2017.11.14-20.05.40:203][873]LogMaterial: Missing cached shader map for material Tree2_Texture_Mat, compiling. 
+[2017.11.14-20.05.40:235][873]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.05.45:289][168]LogMaterial: Missing cached shader map for material Tree1_Texture_Mat, compiling. 
+[2017.11.14-20.05.45:321][168]LogMaterial: Missing cached shader map for material Tree1_Texture_Mat, compiling. 
+[2017.11.14-20.05.45:332][168]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.05.46:743][260]LogMaterial: Missing cached shader map for material Tree1_Texture_Mat, compiling. 
+[2017.11.14-20.05.46:764][260]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.05.46:822][260]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.11.14-20.05.47:785][308]LogMaterialEditor: Applying material Tree1_Texture_Mat
+[2017.11.14-20.05.48:346][308]LogMaterial: Missing cached shader map for material Tree1_Texture_Mat, compiling. 
+[2017.11.14-20.05.48:387][308]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.05.48:440][308]LogMaterial: Missing cached shader map for material Tree1_Texture_Mat, compiling. 
+[2017.11.14-20.05.48:507][308]LogMaterial: Missing cached shader map for material Tree1_Texture_Mat, compiling. 
+[2017.11.14-20.05.48:557][308]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.07.32:016][806]LogSavePackage: Save=308.63ms
+[2017.11.14-20.07.32:016][806]LogSavePackage: Moving 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/gameLevel_Auto1ED9FC87F416018E25D847EA896863345.tmp' to 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/Autosaves/Game/ThirdPersonBP/Maps/gameLevel_Auto1.umap'
+[2017.11.14-20.07.32:017][806]LogSavePackage:Display: Finished SavePackage D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/Autosaves/Game/ThirdPersonBP/Maps/gameLevel_Auto1.umap
+[2017.11.14-20.07.32:019][806]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/gameLevel' took 0.457
+[2017.11.14-20.07.32:019][806]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.457
+[2017.11.14-20.07.32:021][806]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Jacob_Assets/Rock1] ([1] browsable assets)...
+[2017.11.14-20.07.32:034][806]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Jacob_Assets/Rock1.Rock1]
+[2017.11.14-20.07.32:034][806]OBJ SavePackage: Finished generating thumbnails for package [/Game/Jacob_Assets/Rock1]
+[2017.11.14-20.07.32:046][806]LogSavePackage: Save=9.93ms
+[2017.11.14-20.07.32:046][806]LogSavePackage: Moving 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/Rock1_Auto15E50AF7148BADEBE10CC9CA270495539.tmp' to 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/Autosaves/Game/Jacob_Assets/Rock1_Auto1.uasset'
+[2017.11.14-20.07.32:046][806]LogSavePackage:Display: Finished SavePackage D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/Autosaves/Game/Jacob_Assets/Rock1_Auto1.uasset
+[2017.11.14-20.07.32:046][806]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Jacob_Assets/Rock2] ([1] browsable assets)...
+[2017.11.14-20.07.32:061][806]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Jacob_Assets/Rock2.Rock2]
+[2017.11.14-20.07.32:061][806]OBJ SavePackage: Finished generating thumbnails for package [/Game/Jacob_Assets/Rock2]
+[2017.11.14-20.07.32:072][806]LogSavePackage: Save=9.46ms
+[2017.11.14-20.07.32:072][806]LogSavePackage: Moving 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/Rock2_Auto10BDF00D0400D1B0E090CCAB0489EC86D.tmp' to 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/Autosaves/Game/Jacob_Assets/Rock2_Auto1.uasset'
+[2017.11.14-20.07.32:073][806]LogSavePackage:Display: Finished SavePackage D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/Autosaves/Game/Jacob_Assets/Rock2_Auto1.uasset
+[2017.11.14-20.07.32:073][806]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Jacob_Assets/Rock3] ([1] browsable assets)...
+[2017.11.14-20.07.32:087][806]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Jacob_Assets/Rock3.Rock3]
+[2017.11.14-20.07.32:087][806]OBJ SavePackage: Finished generating thumbnails for package [/Game/Jacob_Assets/Rock3]
+[2017.11.14-20.07.32:098][806]LogSavePackage: Save=9.63ms
+[2017.11.14-20.07.32:098][806]LogSavePackage: Moving 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/Rock3_Auto132A2C00C4E7B3E0F8F9925A57718ADC5.tmp' to 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/Autosaves/Game/Jacob_Assets/Rock3_Auto1.uasset'
+[2017.11.14-20.07.32:099][806]LogSavePackage:Display: Finished SavePackage D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/Autosaves/Game/Jacob_Assets/Rock3_Auto1.uasset
+[2017.11.14-20.07.32:099][806]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Jacob_Assets/Map_Texture] ([1] browsable assets)...
+[2017.11.14-20.07.32:108][806]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Jacob_Assets/Map_Texture.Map_Texture]
+[2017.11.14-20.07.32:108][806]OBJ SavePackage: Finished generating thumbnails for package [/Game/Jacob_Assets/Map_Texture]
+[2017.11.14-20.07.32:226][806]LogSavePackage: Save=116.94ms
+[2017.11.14-20.07.32:226][806]LogSavePackage: Moving 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/Map_Texture_Auto1116F33424D1736FD00374C9DA96DA806.tmp' to 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/Autosaves/Game/Jacob_Assets/Map_Texture_Auto1.uasset'
+[2017.11.14-20.07.32:227][806]LogSavePackage:Display: Finished SavePackage D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/Autosaves/Game/Jacob_Assets/Map_Texture_Auto1.uasset
+[2017.11.14-20.07.32:227][806]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Jacob_Assets/Tree1_Texture] ([1] browsable assets)...
+[2017.11.14-20.07.32:236][806]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Jacob_Assets/Tree1_Texture.Tree1_Texture]
+[2017.11.14-20.07.32:236][806]OBJ SavePackage: Finished generating thumbnails for package [/Game/Jacob_Assets/Tree1_Texture]
+[2017.11.14-20.07.32:248][806]LogSavePackage: Save=10.99ms
+[2017.11.14-20.07.32:248][806]LogSavePackage: Moving 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/Tree1_Texture_Auto1F335B1044776825C816A02AEC66AFD8D.tmp' to 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/Autosaves/Game/Jacob_Assets/Tree1_Texture_Auto1.uasset'
+[2017.11.14-20.07.32:249][806]LogSavePackage:Display: Finished SavePackage D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/Autosaves/Game/Jacob_Assets/Tree1_Texture_Auto1.uasset
+[2017.11.14-20.07.32:249][806]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Jacob_Assets/Landscape_LowPoly_New] ([1] browsable assets)...
+[2017.11.14-20.07.32:263][806]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Jacob_Assets/Landscape_LowPoly_New.Landscape_LowPoly_New]
+[2017.11.14-20.07.32:263][806]OBJ SavePackage: Finished generating thumbnails for package [/Game/Jacob_Assets/Landscape_LowPoly_New]
+[2017.11.14-20.07.32:275][806]LogSavePackage: Save=10.88ms
+[2017.11.14-20.07.32:275][806]LogSavePackage: Moving 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/Landscape_LowPoly_New_Auto1F9399D7E4C0DCEAFCF8763A2AEF75158.tmp' to 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/Autosaves/Game/Jacob_Assets/Landscape_LowPoly_New_Auto1.uasset'
+[2017.11.14-20.07.32:276][806]LogSavePackage:Display: Finished SavePackage D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/Autosaves/Game/Jacob_Assets/Landscape_LowPoly_New_Auto1.uasset
+[2017.11.14-20.07.32:276][806]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Jacob_Assets/Tree2_Texture] ([1] browsable assets)...
+[2017.11.14-20.07.32:285][806]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Jacob_Assets/Tree2_Texture.Tree2_Texture]
+[2017.11.14-20.07.32:285][806]OBJ SavePackage: Finished generating thumbnails for package [/Game/Jacob_Assets/Tree2_Texture]
+[2017.11.14-20.07.32:315][806]LogSavePackage: Save=11.00ms
+[2017.11.14-20.07.32:315][806]LogSavePackage: Moving 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/Tree2_Texture_Auto102DDCE634AD06DCBE0D38ABBD0363275.tmp' to 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/Autosaves/Game/Jacob_Assets/Tree2_Texture_Auto1.uasset'
+[2017.11.14-20.07.32:316][806]LogSavePackage:Display: Finished SavePackage D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/Autosaves/Game/Jacob_Assets/Tree2_Texture_Auto1.uasset
+[2017.11.14-20.07.32:316][806]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Jacob_Assets/Dummy] ([1] browsable assets)...
+[2017.11.14-20.07.32:330][806]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Jacob_Assets/Dummy.Dummy]
+[2017.11.14-20.07.32:330][806]OBJ SavePackage: Finished generating thumbnails for package [/Game/Jacob_Assets/Dummy]
+[2017.11.14-20.07.32:342][806]LogSavePackage: Save=10.33ms
+[2017.11.14-20.07.32:342][806]LogSavePackage: Moving 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/Dummy_Auto1F0C8871C4A86D1B0EBEFCA8BB4C8049A.tmp' to 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/Autosaves/Game/Jacob_Assets/Dummy_Auto1.uasset'
+[2017.11.14-20.07.32:343][806]LogSavePackage:Display: Finished SavePackage D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/Autosaves/Game/Jacob_Assets/Dummy_Auto1.uasset
+[2017.11.14-20.07.32:343][806]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Jacob_Assets/MAT_Enviro] ([1] browsable assets)...
+[2017.11.14-20.07.32:358][806]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Jacob_Assets/MAT_Enviro.MAT_Enviro]
+[2017.11.14-20.07.32:359][806]OBJ SavePackage: Finished generating thumbnails for package [/Game/Jacob_Assets/MAT_Enviro]
+[2017.11.14-20.07.32:370][806]LogSavePackage: Save=10.16ms
+[2017.11.14-20.07.32:370][806]LogSavePackage: Moving 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/MAT_Enviro_Auto12FB55B0B4D77799AA6E3379BB5870FFF.tmp' to 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/Autosaves/Game/Jacob_Assets/MAT_Enviro_Auto1.uasset'
+[2017.11.14-20.07.32:370][806]LogSavePackage:Display: Finished SavePackage D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/Autosaves/Game/Jacob_Assets/MAT_Enviro_Auto1.uasset
+[2017.11.14-20.07.32:371][806]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Jacob_Assets/Dum_Wood_Texture] ([1] browsable assets)...
+[2017.11.14-20.07.32:380][806]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Jacob_Assets/Dum_Wood_Texture.Dum_Wood_Texture]
+[2017.11.14-20.07.32:380][806]OBJ SavePackage: Finished generating thumbnails for package [/Game/Jacob_Assets/Dum_Wood_Texture]
+[2017.11.14-20.07.32:386][806]LogSavePackage: Save=4.86ms
+[2017.11.14-20.07.32:386][806]LogSavePackage: Moving 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/Dum_Wood_Texture_Auto10A31DB2647EA29EB7A67A792D606A997.tmp' to 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/Autosaves/Game/Jacob_Assets/Dum_Wood_Texture_Auto1.uasset'
+[2017.11.14-20.07.32:387][806]LogSavePackage:Display: Finished SavePackage D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/Autosaves/Game/Jacob_Assets/Dum_Wood_Texture_Auto1.uasset
+[2017.11.14-20.07.32:387][806]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Jacob_Assets/Readcoat] ([1] browsable assets)...
+[2017.11.14-20.07.32:401][806]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Jacob_Assets/Readcoat.Readcoat]
+[2017.11.14-20.07.32:401][806]OBJ SavePackage: Finished generating thumbnails for package [/Game/Jacob_Assets/Readcoat]
+[2017.11.14-20.07.32:413][806]LogSavePackage: Save=10.60ms
+[2017.11.14-20.07.32:413][806]LogSavePackage: Moving 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/Readcoat_Auto162B1FE3240D749A3A80971816058E9A0.tmp' to 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/Autosaves/Game/Jacob_Assets/Readcoat_Auto1.uasset'
+[2017.11.14-20.07.32:414][806]LogSavePackage:Display: Finished SavePackage D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/Autosaves/Game/Jacob_Assets/Readcoat_Auto1.uasset
+[2017.11.14-20.07.32:414][806]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Jacob_Assets/Dum_Costume_Texture] ([1] browsable assets)...
+[2017.11.14-20.07.32:423][806]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Jacob_Assets/Dum_Costume_Texture.Dum_Costume_Texture]
+[2017.11.14-20.07.32:423][806]OBJ SavePackage: Finished generating thumbnails for package [/Game/Jacob_Assets/Dum_Costume_Texture]
+[2017.11.14-20.07.32:429][806]LogSavePackage: Save=4.82ms
+[2017.11.14-20.07.32:429][806]LogSavePackage: Moving 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/Dum_Costume_Texture_Auto1B4ED16CC4848626BFF11A0BDF8F9FC16.tmp' to 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/Autosaves/Game/Jacob_Assets/Dum_Costume_Texture_Auto1.uasset'
+[2017.11.14-20.07.32:430][806]LogSavePackage:Display: Finished SavePackage D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/Autosaves/Game/Jacob_Assets/Dum_Costume_Texture_Auto1.uasset
+[2017.11.14-20.07.32:430][806]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Jacob_Assets/Tree1_Texture_Mat] ([1] browsable assets)...
+[2017.11.14-20.07.32:444][806]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Jacob_Assets/Tree1_Texture_Mat.Tree1_Texture_Mat]
+[2017.11.14-20.07.32:444][806]OBJ SavePackage: Finished generating thumbnails for package [/Game/Jacob_Assets/Tree1_Texture_Mat]
+[2017.11.14-20.07.32:457][806]LogSavePackage: Save=11.51ms
+[2017.11.14-20.07.32:457][806]LogSavePackage: Moving 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/Tree1_Texture_Mat_Auto1A3839516432BCE90ABE5279824CA0214.tmp' to 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/Autosaves/Game/Jacob_Assets/Tree1_Texture_Mat_Auto1.uasset'
+[2017.11.14-20.07.32:457][806]LogSavePackage:Display: Finished SavePackage D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/Autosaves/Game/Jacob_Assets/Tree1_Texture_Mat_Auto1.uasset
+[2017.11.14-20.07.32:458][806]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Jacob_Assets/Tree2_Texture_Mat] ([1] browsable assets)...
+[2017.11.14-20.07.32:472][806]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Jacob_Assets/Tree2_Texture_Mat.Tree2_Texture_Mat]
+[2017.11.14-20.07.32:472][806]OBJ SavePackage: Finished generating thumbnails for package [/Game/Jacob_Assets/Tree2_Texture_Mat]
+[2017.11.14-20.07.32:484][806]LogSavePackage: Save=11.05ms
+[2017.11.14-20.07.32:484][806]LogSavePackage: Moving 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/Tree2_Texture_Mat_Auto139CDFD634F344EF5ABF55C894488286B.tmp' to 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/Autosaves/Game/Jacob_Assets/Tree2_Texture_Mat_Auto1.uasset'
+[2017.11.14-20.07.32:485][806]LogSavePackage:Display: Finished SavePackage D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/Autosaves/Game/Jacob_Assets/Tree2_Texture_Mat_Auto1.uasset
+[2017.11.14-20.07.32:485][806]LogFileHelpers: Auto-saving content packages took 0.463
+[2017.11.14-20.07.37:511][343]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Landscape_LowPoly_New)
+[2017.11.14-20.07.39:011][512]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Landscape_LowPoly_New)
+[2017.11.14-20.07.40:584][676]Cmd: TRANSACTION UNDO
+[2017.11.14-20.07.40:584][676]LogEditorTransaction: Undo Move Actors
+[2017.11.14-20.07.47:957][453]LogMaterial: Missing cached shader map for material Green, compiling. 
+[2017.11.14-20.07.48:010][453]LogMaterial: Missing cached shader map for material Green, compiling. 
+[2017.11.14-20.07.48:022][453]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.07.49:056][497]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.11.14-20.07.49:056][497]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.11.14-20.07.49:056][497]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.11.14-20.07.49:731][541]LogMaterial: Missing cached shader map for material Green, compiling. 
+[2017.11.14-20.07.49:742][541]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.07.49:743][541]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.11.14-20.07.50:470][573]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.11.14-20.07.50:470][573]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.11.14-20.07.50:470][573]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.11.14-20.07.51:255][638]LogMaterial: Missing cached shader map for material Green, compiling. 
+[2017.11.14-20.07.51:265][638]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.07.51:293][638]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.11.14-20.07.52:563][729]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.11.14-20.07.52:563][729]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.11.14-20.07.52:563][729]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.11.14-20.07.55:970][984]LogMaterial: Missing cached shader map for material Green, compiling. 
+[2017.11.14-20.07.55:981][984]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.07.56:044][984]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.11.14-20.07.57:169][ 55]LogMaterial: Missing cached shader map for material Green, compiling. 
+[2017.11.14-20.07.57:180][ 55]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.07.57:203][ 55]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.11.14-20.07.58:327][128]LogMaterial: Missing cached shader map for material Green, compiling. 
+[2017.11.14-20.07.58:337][128]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.07.58:384][128]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.11.14-20.07.59:471][197]LogMaterial: Missing cached shader map for material Green, compiling. 
+[2017.11.14-20.07.59:482][197]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.07.59:526][197]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.11.14-20.08.00:780][281]LogMaterial: Missing cached shader map for material Green, compiling. 
+[2017.11.14-20.08.00:791][281]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.08.00:815][281]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.11.14-20.08.02:336][391]LogMaterial: Missing cached shader map for material Green, compiling. 
+[2017.11.14-20.08.02:346][391]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.08.02:375][391]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.11.14-20.08.03:014][421]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.11.14-20.08.03:014][421]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.11.14-20.08.03:014][421]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.11.14-20.08.05:462][617]LogMaterialEditor: Applying material Green
+[2017.11.14-20.08.05:928][617]LogMaterial: Missing cached shader map for material Green, compiling. 
+[2017.11.14-20.08.05:949][617]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.08.05:976][617]LogMaterial: Missing cached shader map for material Green, compiling. 
+[2017.11.14-20.08.05:996][617]LogMaterial: Missing cached shader map for material Green, compiling. 
+[2017.11.14-20.08.06:011][617]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.08.15:098][468]Cmd: TRANSACTION UNDO
+[2017.11.14-20.08.15:098][468]LogEditorTransaction: Undo Replace component used material
+[2017.11.14-20.08.36:955][916]Cmd: TRANSACTION UNDO
+[2017.11.14-20.08.36:955][916]LogEditorTransaction: Undo Move Actors
+[2017.11.14-20.08.40:187][268]Cmd: TRANSACTION UNDO
+[2017.11.14-20.08.40:187][268]LogEditorTransaction: Undo Rotate Actors
+[2017.11.14-20.08.46:477][974]Cmd: TRANSACTION UNDO
+[2017.11.14-20.08.46:477][974]LogEditorTransaction: Undo Rotate Actors
+[2017.11.14-20.08.48:291][165]Cmd: MODE ROTGRID=0
+[2017.11.14-20.08.53:488][728]Cmd: TRANSACTION UNDO
+[2017.11.14-20.08.53:488][728]LogEditorTransaction: Undo Rotate Actors
+[2017.11.14-20.08.54:047][764]Cmd: TRANSACTION UNDO
+[2017.11.14-20.08.54:047][764]LogEditorTransaction: Undo Rotate Actors
+[2017.11.14-20.09.03:435][755]Cmd: TRANSACTION UNDO
+[2017.11.14-20.09.03:435][755]LogEditorTransaction: Undo Rotate Actors
+[2017.11.14-20.09.03:744][781]Cmd: TRANSACTION UNDO
+[2017.11.14-20.09.03:744][781]LogEditorTransaction: Undo Move Actors
+[2017.11.14-20.09.09:904][454]Cmd: TRANSACTION UNDO
+[2017.11.14-20.09.09:904][454]LogEditorTransaction: Undo Move Actors
+[2017.11.14-20.09.12:041][677]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Landscape_LowPoly_New2)
+[2017.11.14-20.09.15:812][105]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Landscape_LowPoly_New)
+[2017.11.14-20.09.22:406][790]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Landscape_LowPoly_New3)
+[2017.11.14-20.09.24:414][  2]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Landscape_LowPoly_New3)
+[2017.11.14-20.09.27:311][323]Cmd: TRANSACTION UNDO
+[2017.11.14-20.09.27:311][323]LogEditorTransaction: Undo Move Actors
+[2017.11.14-20.09.28:833][473]Cmd: TRANSACTION UNDO
+[2017.11.14-20.09.28:833][473]LogEditorTransaction: Undo Move Actors
+[2017.11.14-20.09.42:014][960]Cmd: TRANSACTION UNDO
+[2017.11.14-20.09.42:014][960]LogEditorTransaction: Undo Move Actors
+[2017.11.14-20.09.46:872][453]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Landscape_LowPoly_New3)
+[2017.11.14-20.09.47:053][473]Cmd: TRANSACTION UNDO
+[2017.11.14-20.09.47:053][473]LogEditorTransaction: Undo Clicking on Actors
+[2017.11.14-20.09.47:348][498]Cmd: TRANSACTION UNDO
+[2017.11.14-20.09.47:348][498]LogEditorTransaction: Undo Set actor rotation
+[2017.11.14-20.09.47:907][551]Cmd: TRANSACTION UNDO
+[2017.11.14-20.09.47:907][551]LogEditorTransaction: Undo Set actor rotation
+[2017.11.14-20.10.02:515][151]Cmd: TRANSACTION UNDO
+[2017.11.14-20.10.02:515][151]LogEditorTransaction: Undo Rotate Actors
+[2017.11.14-20.10.04:883][386]Cmd: TRANSACTION UNDO
+[2017.11.14-20.10.04:883][386]LogEditorTransaction: Undo Rotate Actors
+[2017.11.14-20.10.20:149][ 93]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Landscape_LowPoly_New3)
+[2017.11.14-20.10.27:385][905]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Landscape_LowPoly_New2)
+[2017.11.14-20.10.28:842][ 43]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Landscape_LowPoly_New2)
+[2017.11.14-20.10.31:716][367]Cmd: TRANSACTION UNDO
+[2017.11.14-20.10.31:716][367]LogEditorTransaction: Undo Move Actors
+[2017.11.14-20.10.33:629][567]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Landscape_LowPoly_New3)
+[2017.11.14-20.10.36:213][859]Cmd: TRANSACTION UNDO
+[2017.11.14-20.10.36:213][859]LogEditorTransaction: Undo Move Actors
+[2017.11.14-20.10.36:772][903]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Landscape_LowPoly_New2)
+[2017.11.14-20.10.40:434][313]Cmd: TRANSACTION UNDO
+[2017.11.14-20.10.40:434][313]LogEditorTransaction: Undo Move Actors
+[2017.11.14-20.10.43:922][677]LogSavePackage: Save=111.07ms
+[2017.11.14-20.10.43:922][677]LogSavePackage: Moving 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/gameLevel67F7383D47CB1C55D34275AF15EC8AEB.tmp' to 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/ThirdPersonBP/Maps/gameLevel.umap'
+[2017.11.14-20.10.43:930][677]LogSavePackage:Display: Finished SavePackage D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/ThirdPersonBP/Maps/gameLevel.umap
+[2017.11.14-20.11.03:067][557]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jacob_Assets/Landscape_LowPoly_New" FILE="D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/Landscape_LowPoly_New.uasset" SILENT=true
+[2017.11.14-20.11.03:080][557]LogSavePackage: Save=10.92ms
+[2017.11.14-20.11.03:080][557]LogSavePackage: Moving 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/Landscape_LowPoly_NewA4ACC9514D2338CEF23E3C951EA909F7.tmp' to 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/Landscape_LowPoly_New.uasset'
+[2017.11.14-20.11.03:082][557]LogSavePackage:Display: Finished SavePackage D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/Landscape_LowPoly_New.uasset
+[2017.11.14-20.11.11:829][420]LogActorFactory: Actor Factory created Tree2
+[2017.11.14-20.11.13:262][558]LogActorFactory: Actor Factory created Tree3
+[2017.11.14-20.11.14:863][716]LogActorFactory: Actor Factory created Tree4
+[2017.11.14-20.11.15:079][741]LogActorFactory: Actor Factory created Tree4
+[2017.11.14-20.11.22:804][522]LogMaterial:Warning: Material /Game/Jacob_Assets/Tree1_Texture_Mat.Tree1_Texture_Mat needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2017.11.14-20.11.22:820][522]LogMaterial: Missing cached shader map for material Tree1_Texture_Mat, compiling. 
+[2017.11.14-20.11.22:890][522]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.11.22:942][522]LogMaterial:Warning: Material /Game/Jacob_Assets/Tree2_Texture_Mat.Tree2_Texture_Mat needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2017.11.14-20.11.22:945][522]LogMaterial: Missing cached shader map for material Tree2_Texture_Mat, compiling. 
+[2017.11.14-20.11.23:003][522]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.11.23:555][552]Cmd: TRANSACTION UNDO
+[2017.11.14-20.11.23:555][552]LogEditorTransaction: Undo Foliage Editing
+[2017.11.14-20.11.28:741][846]Cmd: TRANSACTION UNDO
+[2017.11.14-20.11.28:741][846]LogEditorTransaction: Undo Foliage Editing
+[2017.11.14-20.11.36:580][711]Cmd: TRANSACTION UNDO
+[2017.11.14-20.11.36:580][711]LogEditorTransaction: Undo Foliage Editing
+[2017.11.14-20.11.38:329][841]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0299 seconds. Added 1 classes and 2 folders.
+[2017.11.14-20.11.41:552][125]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.14-20.11.41:642][125]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.14-20.11.41:664][125]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.11.41:689][125]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.11.14-20.11.42:368][150]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.14-20.11.42:493][150]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.14-20.11.42:529][150]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.11.42:569][150]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.11.14-20.11.43:166][176]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 26 instructions
+[2017.11.14-20.11.43:166][176]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2017.11.14-20.11.43:166][176]MaterialEditorStats: Info Texture samplers: 1/16
+[2017.11.14-20.11.48:008][579]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 26 instructions
+[2017.11.14-20.11.48:008][579]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2017.11.14-20.11.48:008][579]MaterialEditorStats: Info Texture samplers: 1/16
+[2017.11.14-20.11.49:233][692]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.14-20.11.49:256][692]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.11.51:007][816]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.14-20.11.51:030][816]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.11.52:412][899]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 26 instructions
+[2017.11.14-20.11.52:412][899]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2017.11.14-20.11.52:412][899]MaterialEditorStats: Info Texture samplers: 1/16
+[2017.11.14-20.11.53:848][ 35]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.14-20.11.53:870][ 35]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.11.55:281][122]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 26 instructions
+[2017.11.14-20.11.55:281][122]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2017.11.14-20.11.55:281][122]MaterialEditorStats: Info Texture samplers: 1/16
+[2017.11.14-20.11.56:040][195]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.14-20.11.56:062][195]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.11.57:080][258]LogMaterialEditor: Applying material Tree1_Texture_Mat
+[2017.11.14-20.11.57:679][258]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.14-20.11.57:722][258]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.11.57:750][258]LogMaterial: Missing cached shader map for material Tree1_Texture_Mat, compiling. 
+[2017.11.14-20.11.57:840][258]LogMaterial: Missing cached shader map for material Tree1_Texture_Mat, compiling. 
+[2017.11.14-20.11.57:936][258]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.12.00:285][391]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.14-20.12.00:321][391]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.12.02:305][520]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.14-20.12.02:341][520]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.12.04:004][616]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.14-20.12.04:033][616]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.12.04:680][655]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 62 instructions
+[2017.11.14-20.12.04:680][655]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2017.11.14-20.12.04:681][655]MaterialEditorStats: Info Texture samplers: 4/16
+[2017.11.14-20.12.05:038][676]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.14-20.12.05:070][676]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.12.06:188][744]LogMaterialEditor: Applying material Tree2_Texture_Mat
+[2017.11.14-20.12.06:765][744]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.14-20.12.06:807][744]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.12.06:855][744]LogMaterial: Missing cached shader map for material Tree2_Texture_Mat, compiling. 
+[2017.11.14-20.12.06:966][744]LogMaterial: Missing cached shader map for material Tree2_Texture_Mat, compiling. 
+[2017.11.14-20.12.07:047][744]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.12.19:541][984]Cmd: TRANSACTION UNDO
+[2017.11.14-20.12.19:541][984]LogEditorTransaction: Undo Foliage Editing
+[2017.11.14-20.12.19:866][ 14]Cmd: TRANSACTION UNDO
+[2017.11.14-20.12.19:866][ 14]LogEditorTransaction: Undo Foliage Editing
+[2017.11.14-20.12.20:096][ 29]Cmd: TRANSACTION UNDO
+[2017.11.14-20.12.20:096][ 29]LogEditorTransaction: Undo Foliage Editing
+[2017.11.14-20.12.26:150][740]Cmd: TRANSACTION UNDO
+[2017.11.14-20.12.26:150][740]LogEditorTransaction: Undo Foliage Editing
+[2017.11.14-20.12.46:517][934]Cmd: TRANSACTION UNDO
+[2017.11.14-20.12.46:517][934]LogEditorTransaction: Undo Foliage Editing
+[2017.11.14-20.13.14:982][945]Cmd: TRANSACTION UNDO
+[2017.11.14-20.13.14:982][945]LogEditorTransaction: Undo Foliage Editing
+[2017.11.14-20.13.17:252][119]Cmd: TRANSACTION UNDO
+[2017.11.14-20.13.17:252][119]LogEditorTransaction: Undo Foliage Editing
+[2017.11.14-20.13.20:310][424]Cmd: TRANSACTION UNDO
+[2017.11.14-20.13.20:310][424]LogEditorTransaction: Undo Foliage Editing
+[2017.11.14-20.13.23:369][712]Cmd: TRANSACTION UNDO
+[2017.11.14-20.13.23:369][712]LogEditorTransaction: Undo Foliage Editing
+[2017.11.14-20.13.31:764][594]Cmd: TRANSACTION UNDO
+[2017.11.14-20.13.31:764][594]LogEditorTransaction: Undo Foliage Editing
+[2017.11.14-20.14.03:195][360]LogMaterial: Missing cached shader map for material MATRock1, compiling. 
+[2017.11.14-20.14.03:250][360]LogMaterial: Missing cached shader map for material MATRock1, compiling. 
+[2017.11.14-20.14.03:261][360]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.14.04:346][415]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.11.14-20.14.04:346][415]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.11.14-20.14.04:346][415]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.11.14-20.14.04:805][458]LogMaterial: Missing cached shader map for material MATRock1, compiling. 
+[2017.11.14-20.14.04:816][458]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.14.05:456][495]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.11.14-20.14.05:456][495]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.11.14-20.14.05:456][495]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.11.14-20.14.06:094][552]LogMaterial: Missing cached shader map for material MATRock1, compiling. 
+[2017.11.14-20.14.06:105][552]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.14.06:751][590]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.11.14-20.14.06:751][590]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.11.14-20.14.06:751][590]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.11.14-20.14.07:054][619]LogMaterial: Missing cached shader map for material MATRock1, compiling. 
+[2017.11.14-20.14.07:065][619]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.14.07:091][619]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2017.11.14-20.14.07:770][657]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.11.14-20.14.07:770][657]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.11.14-20.14.07:770][657]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.11.14-20.14.08:377][721]LogMaterial: Missing cached shader map for material MATRock1, compiling. 
+[2017.11.14-20.14.08:387][721]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.14.08:428][721]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2017.11.14-20.14.09:265][782]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.11.14-20.14.09:265][782]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.11.14-20.14.09:265][782]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.11.14-20.14.10:138][865]LogMaterial: Missing cached shader map for material MATRock1, compiling. 
+[2017.11.14-20.14.10:149][865]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.14.10:814][902]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.11.14-20.14.10:814][902]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.11.14-20.14.10:814][902]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.11.14-20.14.12:013][ 30]LogMaterial: Missing cached shader map for material MATRock1, compiling. 
+[2017.11.14-20.14.12:023][ 30]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.14.12:740][ 77]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.11.14-20.14.12:740][ 77]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.11.14-20.14.12:740][ 77]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.11.14-20.14.13:668][164]LogMaterial: Missing cached shader map for material MATRock1, compiling. 
+[2017.11.14-20.14.13:679][164]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.14.14:390][212]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.11.14-20.14.14:390][212]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.11.14-20.14.14:390][212]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.11.14-20.14.16:280][385]LogMaterial: Missing cached shader map for material MATRock1, compiling. 
+[2017.11.14-20.14.16:291][385]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.14.16:314][385]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2017.11.14-20.14.17:044][428]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.11.14-20.14.17:044][428]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.11.14-20.14.17:044][428]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.11.14-20.14.17:970][518]LogMaterialEditor: Applying material MATRock1
+[2017.11.14-20.14.18:455][518]LogMaterial: Missing cached shader map for material MATRock1, compiling. 
+[2017.11.14-20.14.18:476][518]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.14.18:500][518]LogMaterial: Missing cached shader map for material MATRock1, compiling. 
+[2017.11.14-20.14.18:533][518]LogMaterial: Missing cached shader map for material MATRock1, compiling. 
+[2017.11.14-20.14.18:559][518]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.14.20:402][625]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 58 instructions
+[2017.11.14-20.14.20:402][625]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.11.14-20.14.20:402][625]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.11.14-20.14.21:598][721]LogMaterial: Missing cached shader map for material MATRock2, compiling. 
+[2017.11.14-20.14.22:375][759]LogMaterial: Missing cached shader map for material MATRock2, compiling. 
+[2017.11.14-20.14.22:448][759]LogMaterial: Missing cached shader map for material MATRock2, compiling. 
+[2017.11.14-20.14.22:465][759]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.14.22:493][759]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2017.11.14-20.14.23:585][809]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.11.14-20.14.23:586][809]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.11.14-20.14.23:586][809]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.11.14-20.14.25:174][944]LogMaterial: Missing cached shader map for material MATRock2, compiling. 
+[2017.11.14-20.14.25:184][944]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.14.25:239][944]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2017.11.14-20.14.27:169][107]LogMaterial: Missing cached shader map for material MATRock2, compiling. 
+[2017.11.14-20.14.27:180][107]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.14.27:215][107]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2017.11.14-20.14.28:485][203]LogMaterial: Missing cached shader map for material MATRock2, compiling. 
+[2017.11.14-20.14.28:495][203]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.14.28:529][203]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2017.11.14-20.14.29:180][239]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.11.14-20.14.29:180][239]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.11.14-20.14.29:180][239]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.11.14-20.14.30:477][357]LogMaterialEditor: Applying material MATRock2
+[2017.11.14-20.14.30:942][357]LogMaterial: Missing cached shader map for material MATRock2, compiling. 
+[2017.11.14-20.14.30:964][357]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.14.30:995][357]LogMaterial: Missing cached shader map for material MATRock2, compiling. 
+[2017.11.14-20.14.31:026][357]LogMaterial: Missing cached shader map for material MATRock2, compiling. 
+[2017.11.14-20.14.31:058][357]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.14.33:900][549]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 58 instructions
+[2017.11.14-20.14.33:900][549]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.11.14-20.14.33:900][549]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.11.14-20.14.36:232][760]LogMaterial: Missing cached shader map for material MATRock3, compiling. 
+[2017.11.14-20.15.25:997][ 69]Cmd: TRANSACTION UNDO
+[2017.11.14-20.15.25:997][ 69]LogEditorTransaction: Undo Foliage Editing
+[2017.11.14-20.15.26:016][ 69]LogMaterial: Missing cached shader map for material MATRock1, compiling. 
+[2017.11.14-20.15.26:027][ 69]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.15.26:932][110]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.11.14-20.15.26:933][110]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.11.14-20.15.26:933][110]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.11.14-20.17.44:704][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jacob_Assets/Rock1" FILE="D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/Rock1.uasset" SILENT=true
+[2017.11.14-20.17.44:715][876]LogSavePackage: Save=10.15ms
+[2017.11.14-20.17.44:715][876]LogSavePackage: Moving 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/Rock1C24C254F481128958A898880E2551D3A.tmp' to 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/Rock1.uasset'
+[2017.11.14-20.17.44:716][876]LogSavePackage:Display: Finished SavePackage D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/Rock1.uasset
+[2017.11.14-20.17.51:363][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jacob_Assets/Rock1" FILE="D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/Rock1.uasset" SILENT=true
+[2017.11.14-20.17.51:378][284]LogSavePackage: Save=9.30ms
+[2017.11.14-20.17.51:378][284]LogSavePackage: Moving 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/Rock17EF0A1954D8C54B0D4F42CBB6AF9B2E8.tmp' to 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/Rock1.uasset'
+[2017.11.14-20.17.51:380][284]LogSavePackage:Display: Finished SavePackage D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/Rock1.uasset
+[2017.11.14-20.17.53:888][420]LogMaterial: Missing cached shader map for material MATRock3, compiling. 
+[2017.11.14-20.17.53:957][420]LogMaterial: Missing cached shader map for material MATRock3, compiling. 
+[2017.11.14-20.17.53:968][420]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.17.53:993][420]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2017.11.14-20.17.55:032][467]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.11.14-20.17.55:032][467]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.11.14-20.17.55:032][467]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.11.14-20.17.56:341][569]LogMaterial: Missing cached shader map for material MATRock3, compiling. 
+[2017.11.14-20.17.56:352][569]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.17.56:378][569]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2017.11.14-20.17.57:126][605]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.11.14-20.17.57:126][605]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.11.14-20.17.57:126][605]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.11.14-20.17.57:543][642]LogMaterial: Missing cached shader map for material MATRock3, compiling. 
+[2017.11.14-20.17.57:553][642]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.17.57:577][642]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2017.11.14-20.17.58:734][732]LogMaterial: Missing cached shader map for material MATRock3, compiling. 
+[2017.11.14-20.17.58:745][732]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.17.58:770][732]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2017.11.14-20.18.00:153][847]LogMaterial: Missing cached shader map for material MATRock3, compiling. 
+[2017.11.14-20.18.00:163][847]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.18.00:245][847]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2017.11.14-20.18.00:811][875]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.11.14-20.18.00:811][875]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.11.14-20.18.00:811][875]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.11.14-20.18.03:485][ 55]LogMaterialEditor: Applying material MATRock3
+[2017.11.14-20.18.03:955][ 55]LogMaterial: Missing cached shader map for material MATRock3, compiling. 
+[2017.11.14-20.18.03:976][ 55]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.18.04:017][ 55]LogMaterial: Missing cached shader map for material MATRock3, compiling. 
+[2017.11.14-20.18.04:039][ 55]LogMaterial: Missing cached shader map for material MATRock3, compiling. 
+[2017.11.14-20.18.04:055][ 55]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.18.04:673][ 91]LogMaterialEditor: Saving and Compiling material MATRock3
+[2017.11.14-20.18.05:762][ 91]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jacob_Assets/MATRock3" FILE="D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/MATRock3.uasset" SILENT=true
+[2017.11.14-20.18.05:773][ 91]LogSavePackage: Save=9.71ms
+[2017.11.14-20.18.05:773][ 91]LogSavePackage: Moving 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/MATRock39B5A4BBE42E9F43BCA49D7B29BE2E23C.tmp' to 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/MATRock3.uasset'
+[2017.11.14-20.18.05:774][ 91]LogSavePackage:Display: Finished SavePackage D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/MATRock3.uasset
+[2017.11.14-20.18.05:777][ 91]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 58 instructions
+[2017.11.14-20.18.05:777][ 91]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.11.14-20.18.05:778][ 91]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.11.14-20.18.10:101][387]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jacob_Assets/Rock2" FILE="D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/Rock2.uasset" SILENT=true
+[2017.11.14-20.18.10:111][387]LogSavePackage: Save=9.03ms
+[2017.11.14-20.18.10:111][387]LogSavePackage: Moving 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/Rock24C7AB5084145466B399A3E8F849417A4.tmp' to 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/Rock2.uasset'
+[2017.11.14-20.18.10:113][387]LogSavePackage:Display: Finished SavePackage D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/Rock2.uasset
+[2017.11.14-20.18.14:082][669]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jacob_Assets/Rock3" FILE="D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/Rock3.uasset" SILENT=true
+[2017.11.14-20.18.14:099][669]LogSavePackage: Save=9.18ms
+[2017.11.14-20.18.14:099][669]LogSavePackage: Moving 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/Rock3C42E6E2A407FE82C96C8699FA7AEC2E2.tmp' to 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/Rock3.uasset'
+[2017.11.14-20.18.14:100][669]LogSavePackage:Display: Finished SavePackage D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/Rock3.uasset
+[2017.11.14-20.18.15:153][729]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2017.11.14-20.18.15:255][729]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2017.11.14-20.18.15:266][729]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.18.15:318][729]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2017.11.14-20.18.15:984][756]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.11.14-20.18.15:984][756]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.11.14-20.18.15:984][756]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.11.14-20.18.17:312][830]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2017.11.14-20.18.17:323][830]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.18.17:351][830]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2017.11.14-20.18.18:047][862]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.11.14-20.18.18:047][862]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.11.14-20.18.18:047][862]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.11.14-20.18.19:851][992]LogMaterialEditor: Applying material MATRock2
+[2017.11.14-20.18.20:302][992]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2017.11.14-20.18.20:323][992]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.18.20:355][992]LogMaterial: Missing cached shader map for material MATRock2, compiling. 
+[2017.11.14-20.18.20:374][992]LogMaterial: Missing cached shader map for material MATRock2, compiling. 
+[2017.11.14-20.18.20:395][992]LogMaterial: 0.01 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.18.20:728][ 10]LogMaterialEditor: Saving and Compiling material MATRock2
+[2017.11.14-20.18.22:069][ 10]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jacob_Assets/MATRock2" FILE="D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/MATRock2.uasset" SILENT=true
+[2017.11.14-20.18.22:080][ 10]LogSavePackage: Save=9.55ms
+[2017.11.14-20.18.22:080][ 10]LogSavePackage: Moving 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/MATRock21E6497864AF7DCD81D6EDFA360FB70F6.tmp' to 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/MATRock2.uasset'
+[2017.11.14-20.18.22:081][ 10]LogSavePackage:Display: Finished SavePackage D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/MATRock2.uasset
+[2017.11.14-20.18.22:085][ 10]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 58 instructions
+[2017.11.14-20.18.22:085][ 10]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.11.14-20.18.22:085][ 10]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.11.14-20.18.24:668][ 40]LogMaterial: Missing cached shader map for material MATRock1, compiling. 
+[2017.11.14-20.18.24:689][ 40]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.18.24:796][ 40]LogMaterial: Missing cached shader map for material MATRock1, compiling. 
+[2017.11.14-20.18.24:822][ 40]LogMaterial: Missing cached shader map for material MATRock1, compiling. 
+[2017.11.14-20.18.24:849][ 40]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.18.42:560][581]LogMaterial:Warning: Material /Game/Jacob_Assets/MATRock1.MATRock1 needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2017.11.14-20.18.42:562][581]LogMaterial: Missing cached shader map for material MATRock1, compiling. 
+[2017.11.14-20.18.42:587][581]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.18.42:588][581]LogMaterial:Warning: Material /Game/Jacob_Assets/MATRock2.MATRock2 needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2017.11.14-20.18.42:657][581]LogMaterial: Missing cached shader map for material MATRock2, compiling. 
+[2017.11.14-20.18.42:701][581]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.18.42:704][581]LogMaterial:Warning: Material /Game/Jacob_Assets/MATRock3.MATRock3 needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2017.11.14-20.18.42:708][581]LogMaterial: Missing cached shader map for material MATRock3, compiling. 
+[2017.11.14-20.18.42:753][581]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.18.44:508][728]Cmd: TRANSACTION UNDO
+[2017.11.14-20.18.44:508][728]LogEditorTransaction: Undo Foliage Editing
+[2017.11.14-20.18.46:808][863]Cmd: TRANSACTION UNDO
+[2017.11.14-20.18.46:808][863]LogEditorTransaction: Undo Foliage Editing
+[2017.11.14-20.19.21:380][ 35]Cmd: TRANSACTION UNDO
+[2017.11.14-20.19.21:380][ 35]LogEditorTransaction: Undo Foliage Editing
+[2017.11.14-20.19.26:040][446]Cmd: TRANSACTION UNDO
+[2017.11.14-20.19.26:040][446]LogEditorTransaction: Undo Foliage Editing
+[2017.11.14-20.19.37:539][656]LogSavePackage: Save=182.46ms
+[2017.11.14-20.19.37:539][656]LogSavePackage: Moving 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/gameLevelBE884969437BC9044432C3916A2BEA4D.tmp' to 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/ThirdPersonBP/Maps/gameLevel.umap'
+[2017.11.14-20.19.37:541][656]LogSavePackage:Display: Finished SavePackage D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/ThirdPersonBP/Maps/gameLevel.umap
+[2017.11.14-20.19.46:223][480]Cmd: TRANSACTION UNDO
+[2017.11.14-20.19.46:223][480]LogEditorTransaction: Undo Foliage Editing
+[2017.11.14-20.19.49:291][773]Cmd: TRANSACTION UNDO
+[2017.11.14-20.19.49:291][773]LogEditorTransaction: Undo Foliage Editing
+[2017.11.14-20.19.55:368][321]Cmd: TRANSACTION UNDO
+[2017.11.14-20.19.55:368][321]LogEditorTransaction: Undo Foliage Editing
+[2017.11.14-20.19.59:158][681]Cmd: TRANSACTION UNDO
+[2017.11.14-20.19.59:158][681]LogEditorTransaction: Undo Foliage Editing
+[2017.11.14-20.20.06:597][412]Cmd: TRANSACTION UNDO
+[2017.11.14-20.20.06:597][412]LogEditorTransaction: Undo Foliage Editing
+[2017.11.14-20.21.07:019][238]Cmd: TRANSACTION UNDO
+[2017.11.14-20.21.07:019][238]LogEditorTransaction: Undo Foliage Editing
+[2017.11.14-20.21.26:471][137]LogMaterial: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2017.11.14-20.21.26:544][137]LogMaterial: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2017.11.14-20.21.26:554][137]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.21.26:577][137]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2017.11.14-20.21.27:736][188]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.11.14-20.21.27:736][188]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.11.14-20.21.27:736][188]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.11.14-20.21.29:389][308]LogMaterial: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2017.11.14-20.21.29:401][308]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.21.29:475][308]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2017.11.14-20.21.30:026][339]LogMaterial: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2017.11.14-20.21.30:043][339]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.21.30:089][339]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2017.11.14-20.21.30:591][367]LogMaterial: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2017.11.14-20.21.30:610][367]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.21.30:634][367]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2017.11.14-20.21.31:393][409]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.11.14-20.21.31:393][409]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.11.14-20.21.31:393][409]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.11.14-20.21.33:145][563]LogMaterialEditor: Saving and Compiling material MATRock3
+[2017.11.14-20.21.33:608][563]LogMaterial: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2017.11.14-20.21.33:629][563]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.21.33:743][563]LogMaterial: Missing cached shader map for material MATRock3, compiling. 
+[2017.11.14-20.21.33:797][563]LogMaterial: Missing cached shader map for material MATRock3, compiling. 
+[2017.11.14-20.21.33:841][563]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.11.14-20.21.35:788][563]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jacob_Assets/MATRock3" FILE="D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/MATRock3.uasset" SILENT=true
+[2017.11.14-20.21.35:805][563]LogSavePackage: Save=9.90ms
+[2017.11.14-20.21.35:805][563]LogSavePackage: Moving 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/MATRock3327DCE7344CA446C226EE6BBDE6F3DDB.tmp' to 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/MATRock3.uasset'
+[2017.11.14-20.21.35:806][563]LogSavePackage:Display: Finished SavePackage D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/MATRock3.uasset
+[2017.11.14-20.21.35:809][563]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 58 instructions
+[2017.11.14-20.21.35:809][563]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.11.14-20.21.35:809][563]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.11.14-20.22.09:273][187]Cmd: TRANSACTION UNDO
+[2017.11.14-20.22.09:273][187]LogEditorTransaction: Undo Foliage Editing
+[2017.11.14-20.22.18:249][ 49]Cmd: TRANSACTION UNDO
+[2017.11.14-20.22.18:249][ 49]LogEditorTransaction: Undo Foliage Editing
+[2017.11.14-20.22.20:966][303]Cmd: TRANSACTION UNDO
+[2017.11.14-20.22.20:966][303]LogEditorTransaction: Undo Foliage Editing
+[2017.11.14-20.22.41:377][268]Cmd: TRANSACTION UNDO
+[2017.11.14-20.22.41:377][268]LogEditorTransaction: Undo Foliage Editing
+[2017.11.14-20.22.42:729][377]Cmd: TRANSACTION UNDO
+[2017.11.14-20.22.42:729][377]LogEditorTransaction: Undo Foliage Editing
+[2017.11.14-20.22.45:023][578]Cmd: TRANSACTION UNDO
+[2017.11.14-20.22.45:023][578]LogEditorTransaction: Undo Foliage Editing
+[2017.11.14-20.22.56:890][681]Cmd: TRANSACTION UNDO
+[2017.11.14-20.22.56:890][681]LogEditorTransaction: Undo Foliage Editing
+[2017.11.14-20.23.02:903][171]Cmd: TRANSACTION UNDO
+[2017.11.14-20.23.02:903][171]LogEditorTransaction: Undo Foliage Editing
+[2017.11.14-20.23.58:640][412]Cmd: TRANSACTION UNDO
+[2017.11.14-20.23.58:640][412]LogEditorTransaction: Undo Foliage Editing
+[2017.11.14-20.24.08:683][463]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Landscape_LowPoly_New)
+[2017.11.14-20.24.22:738][953]Cmd: TRANSACTION UNDO
+[2017.11.14-20.24.22:738][953]LogEditorTransaction: Undo Foliage Editing
+[2017.11.14-20.24.23:129][975]Cmd: TRANSACTION UNDO
+[2017.11.14-20.24.23:129][975]LogEditorTransaction: Undo Foliage Editing
+[2017.11.14-20.24.36:077][946]Cmd: TRANSACTION UNDO
+[2017.11.14-20.24.36:077][946]LogEditorTransaction: Undo Foliage Editing
+[2017.11.14-20.24.39:143][242]Cmd: TRANSACTION UNDO
+[2017.11.14-20.24.39:143][242]LogEditorTransaction: Undo Foliage Editing
+[2017.11.14-20.24.41:341][412]Cmd: TRANSACTION UNDO
+[2017.11.14-20.24.41:341][412]LogEditorTransaction: Undo Foliage Editing
+[2017.11.14-20.24.55:662][657]Cmd: TRANSACTION UNDO
+[2017.11.14-20.24.55:662][657]LogEditorTransaction: Undo Foliage Editing
+[2017.11.14-20.25.56:884][472]Cmd: TRANSACTION UNDO
+[2017.11.14-20.25.56:884][472]LogEditorTransaction: Undo Foliage Editing
+[2017.11.14-20.25.59:446][655]Cmd: TRANSACTION UNDO
+[2017.11.14-20.25.59:446][655]LogEditorTransaction: Undo Foliage Editing
+[2017.11.14-20.26.49:311][340]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.14-20.26.50:932][493]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.14-20.26.51:730][568]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.14-20.26.52:120][604]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.14-20.26.52:248][615]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.14-20.26.57:255][168]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.14-20.26.57:684][217]Cmd: TRANSACTION UNDO
+[2017.11.14-20.26.57:684][217]LogEditorTransaction: Undo Rotate Actors
+[2017.11.14-20.26.58:579][287]Cmd: MODE ROTGRID=1
+[2017.11.14-20.27.01:376][609]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.14-20.27.04:884][919]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.14-20.27.05:592][966]LogSavePackage: Save=182.15ms
+[2017.11.14-20.27.05:592][966]LogSavePackage: Moving 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/gameLevel42D15CEA4EF852BD39D5FFBC89E19B20.tmp' to 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/ThirdPersonBP/Maps/gameLevel.umap'
+[2017.11.14-20.27.05:595][966]LogSavePackage:Display: Finished SavePackage D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/ThirdPersonBP/Maps/gameLevel.umap
+[2017.11.14-20.27.14:927][661]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2017.11.14-20.27.15:340][681]LogTemp:Display: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Toamini
+
+[2017.11.14-20.27.15:340][681]LogTemp:Display: CWD: C:\apps\Epic Games\4.14\Engine\Binaries\DotNet\IOS
+
+[2017.11.14-20.27.15:340][681]LogTemp:Display: Initial Dir: C:\apps\Epic Games\4.14
+
+[2017.11.14-20.27.15:340][681]LogTemp:Display: Env CWD: C:\apps\Epic Games\4.14\Engine\Binaries\DotNet\IOS
+
+[2017.11.14-20.27.15:374][684]LogTemp:Display: BranchPath = 1806C022/C/apps/Epic Games/4.14/Engine/Binaries --- GameBranchPath = 1806C022/C/apps/Epic Games/4.14/Engine/Binaries
+
+[2017.11.14-20.27.15:853][723]LogTemp:Display: IPP ERROR: Application exception: System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\Users\jacob.clo6858\AppData\Local\Apple Computer\MobileDevice\Provisioning Profiles'.
+
+[2017.11.14-20.27.15:853][723]LogTemp:Display:    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+
+[2017.11.14-20.27.15:853][723]LogTemp:Display:    at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+
+[2017.11.14-20.27.15:853][723]LogTemp:Display:    at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+
+[2017.11.14-20.27.15:853][723]LogTemp:Display:    at System.IO.Directory.EnumerateFiles(String path, String searchPattern)
+
+[2017.11.14-20.27.15:853][723]LogTemp:Display:    at iPhonePackager.CodeSignatureBuilder.FindProvisions(String CFBundleIdentifier)
+
+[2017.11.14-20.27.15:853][723]LogTemp:Display:    at iPhonePackager.Program.Main(String[] args)
+
+[2017.11.14-20.27.23:496][377]LogSavePackage: Save=179.69ms
+[2017.11.14-20.27.23:496][377]LogSavePackage: Moving 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/gameLevel9259A12F47C2E821AF6B76A83DC7A60E.tmp' to 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/ThirdPersonBP/Maps/gameLevel.umap'
+[2017.11.14-20.27.23:498][377]LogSavePackage:Display: Finished SavePackage D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/ThirdPersonBP/Maps/gameLevel.umap
+[2017.11.14-20.27.35:620][790]LogSavePackage: Save=189.60ms
+[2017.11.14-20.27.35:620][790]LogSavePackage: Moving 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/gameLevel8E03AB374479D9BD541C24BA4476A5D5.tmp' to 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/ThirdPersonBP/Maps/gameLevel.umap'
+[2017.11.14-20.27.35:622][790]LogSavePackage:Display: Finished SavePackage D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/ThirdPersonBP/Maps/gameLevel.umap
+[2017.11.14-20.27.38:206][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jacob_Assets/Dum_Costume_Texture" FILE="D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/Dum_Costume_Texture.uasset" SILENT=true
+[2017.11.14-20.27.38:214][879]LogSavePackage: Save=6.75ms
+[2017.11.14-20.27.38:214][879]LogSavePackage: Moving 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/Dum_Costume_Texture338FD5D84EBF53C8604BFB892CBCCAE5.tmp' to 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/Dum_Costume_Texture.uasset'
+[2017.11.14-20.27.38:216][879]LogSavePackage:Display: Finished SavePackage D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/Dum_Costume_Texture.uasset
+[2017.11.14-20.27.38:229][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jacob_Assets/Dum_Wood_Texture" FILE="D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/Dum_Wood_Texture.uasset" SILENT=true
+[2017.11.14-20.27.38:238][879]LogSavePackage: Save=7.69ms
+[2017.11.14-20.27.38:238][879]LogSavePackage: Moving 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/Dum_Wood_Texture4CD16C5F457EABEC31E81F94441E89ED.tmp' to 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/Dum_Wood_Texture.uasset'
+[2017.11.14-20.27.38:240][879]LogSavePackage:Display: Finished SavePackage D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/Dum_Wood_Texture.uasset
+[2017.11.14-20.27.38:255][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jacob_Assets/Dummy" FILE="D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/Dummy.uasset" SILENT=true
+[2017.11.14-20.27.38:267][879]LogSavePackage: Save=10.07ms
+[2017.11.14-20.27.38:267][879]LogSavePackage: Moving 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/DummyC1D22E974F0A0E738885DFBEEDB0A779.tmp' to 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/Dummy.uasset'
+[2017.11.14-20.27.38:268][879]LogSavePackage:Display: Finished SavePackage D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/Dummy.uasset
+[2017.11.14-20.27.38:284][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jacob_Assets/Green" FILE="D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/Green.uasset" SILENT=true
+[2017.11.14-20.27.38:296][879]LogSavePackage: Save=10.63ms
+[2017.11.14-20.27.38:296][879]LogSavePackage: Moving 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/Green8D7ED43240CD5BDAC3071A8B5435EA42.tmp' to 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/Green.uasset'
+[2017.11.14-20.27.38:297][879]LogSavePackage:Display: Finished SavePackage D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/Green.uasset
+[2017.11.14-20.27.38:308][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jacob_Assets/Map_Texture" FILE="D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/Map_Texture.uasset" SILENT=true
+[2017.11.14-20.27.41:035][879]LogSavePackage: Save=2724.62ms
+[2017.11.14-20.27.41:035][879]LogSavePackage: Moving 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/Map_Texture9885441A4BCFF9C9D328E586A1E795F0.tmp' to 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/Map_Texture.uasset'
+[2017.11.14-20.27.41:036][879]LogSavePackage:Display: Finished SavePackage D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/Map_Texture.uasset
+[2017.11.14-20.27.41:057][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jacob_Assets/MAT_Enviro" FILE="D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/MAT_Enviro.uasset" SILENT=true
+[2017.11.14-20.27.41:069][879]LogSavePackage: Save=10.34ms
+[2017.11.14-20.27.41:069][879]LogSavePackage: Moving 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/MAT_Enviro1120F2A24BC49501D30EA4A1A325367A.tmp' to 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/MAT_Enviro.uasset'
+[2017.11.14-20.27.41:071][879]LogSavePackage:Display: Finished SavePackage D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/MAT_Enviro.uasset
+[2017.11.14-20.27.41:088][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jacob_Assets/MATRock1" FILE="D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/MATRock1.uasset" SILENT=true
+[2017.11.14-20.27.41:099][879]LogSavePackage: Save=9.98ms
+[2017.11.14-20.27.41:099][879]LogSavePackage: Moving 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/MATRock152D43D05417CC9C77423A4A3A82738B8.tmp' to 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/MATRock1.uasset'
+[2017.11.14-20.27.41:101][879]LogSavePackage:Display: Finished SavePackage D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/MATRock1.uasset
+[2017.11.14-20.27.41:118][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jacob_Assets/Readcoat" FILE="D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/Readcoat.uasset" SILENT=true
+[2017.11.14-20.27.41:130][879]LogSavePackage: Save=10.80ms
+[2017.11.14-20.27.41:130][879]LogSavePackage: Moving 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/ReadcoatD2FB78634FA2E772C350299D4639FAB2.tmp' to 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/Readcoat.uasset'
+[2017.11.14-20.27.41:131][879]LogSavePackage:Display: Finished SavePackage D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/Readcoat.uasset
+[2017.11.14-20.27.41:143][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jacob_Assets/Tree1_Texture" FILE="D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/Tree1_Texture.uasset" SILENT=true
+[2017.11.14-20.27.41:270][879]LogSavePackage: Save=125.95ms
+[2017.11.14-20.27.41:270][879]LogSavePackage: Moving 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/Tree1_TextureAC4DCB764A586844FC05819E8C8214A5.tmp' to 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/Tree1_Texture.uasset'
+[2017.11.14-20.27.41:272][879]LogSavePackage:Display: Finished SavePackage D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/Tree1_Texture.uasset
+[2017.11.14-20.27.41:289][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jacob_Assets/Tree1_Texture_Mat" FILE="D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/Tree1_Texture_Mat.uasset" SILENT=true
+[2017.11.14-20.27.41:301][879]LogSavePackage: Save=11.06ms
+[2017.11.14-20.27.41:301][879]LogSavePackage: Moving 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/Tree1_Texture_Mat6D4279504CB659ECDC878FA51BD3CDF1.tmp' to 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/Tree1_Texture_Mat.uasset'
+[2017.11.14-20.27.41:303][879]LogSavePackage:Display: Finished SavePackage D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/Tree1_Texture_Mat.uasset
+[2017.11.14-20.27.41:314][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jacob_Assets/Tree2_Texture" FILE="D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/Tree2_Texture.uasset" SILENT=true
+[2017.11.14-20.27.41:431][879]LogSavePackage: Save=114.82ms
+[2017.11.14-20.27.41:431][879]LogSavePackage: Moving 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/Tree2_Texture80CDDFC04D4D4262652C758FDF411213.tmp' to 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/Tree2_Texture.uasset'
+[2017.11.14-20.27.41:433][879]LogSavePackage:Display: Finished SavePackage D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/Tree2_Texture.uasset
+[2017.11.14-20.27.41:450][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jacob_Assets/Tree2_Texture_Mat" FILE="D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/Tree2_Texture_Mat.uasset" SILENT=true
+[2017.11.14-20.27.41:463][879]LogSavePackage: Save=11.36ms
+[2017.11.14-20.27.41:463][879]LogSavePackage: Moving 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/Tree2_Texture_Mat612CA22E4A3D94139CD011803FB6CBC0.tmp' to 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/Tree2_Texture_Mat.uasset'
+[2017.11.14-20.27.41:464][879]LogSavePackage:Display: Finished SavePackage D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Jacob_Assets/Tree2_Texture_Mat.uasset
+[2017.11.14-20.27.41:766][880]Cmd: QUIT_EDITOR
+[2017.11.14-20.27.42:038][880]LogExit: Preparing to exit.
+[2017.11.14-20.27.42:746][880]LogExit: Editor shut down
+[2017.11.14-20.27.42:747][880]LogExit: Transaction tracking system shut down
+[2017.11.14-20.27.43:812][880]LogObj: Freed 0b from 0 cluster array pools.
+[2017.11.14-20.27.43:812][880]LogExit: Object subsystem successfully closed.
+[2017.11.14-20.27.43:987][880]LogD3D11RHI: Shutdown
+[2017.11.14-20.27.43:987][880]LogD3D11RHI: CleanupD3DDevice
+[2017.11.14-20.27.44:121][880]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.11.14-20.27.44:669][880]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.11.14-20.27.44:669][880]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B52FA59F3-4C44-CF11-44D8-82A4B5097DEB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.14.3-3249277%2B%2B%2BUE4%2BRelease-4.14&UserID=61a017164cc8fd079fd098ae0e757598%7C%7C8e551480-a268-4287-b064-daf3dfd3705b&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.11.14-20.27.44:760][880]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (246)
+[2017.11.14-20.27.44:760][880]LogModuleManager: Shutting down and abandoning module TextureEditor (245)
+[2017.11.14-20.27.44:760][880]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (244)
+[2017.11.14-20.27.44:760][880]LogModuleManager: Shutting down and abandoning module MaterialEditor (243)
+[2017.11.14-20.27.44:760][880]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (242)
+[2017.11.14-20.27.44:760][880]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (241)
+[2017.11.14-20.27.44:773][880]LogModuleManager: Shutting down and abandoning module CrashTracker (240)
+[2017.11.14-20.27.44:774][880]LogModuleManager: Shutting down and abandoning module SceneOutliner (239)
+[2017.11.14-20.27.44:774][880]LogModuleManager: Shutting down and abandoning module WidgetCarousel (238)
+[2017.11.14-20.27.44:784][880]LogModuleManager: Shutting down and abandoning module AddContentDialog (237)
+[2017.11.14-20.27.44:799][880]LogDirectoryWatcher: A directory notification for 'C:/apps/Epic Games/4.14/FeaturePacks/' was aborted.
+[2017.11.14-20.27.44:801][880]LogModuleManager: Shutting down and abandoning module GameplayTags (236)
+[2017.11.14-20.27.44:801][880]LogModuleManager: Shutting down and abandoning module EditorWidgets (235)
+[2017.11.14-20.27.44:801][880]LogModuleManager: Shutting down and abandoning module CollectionManager (234)
+[2017.11.14-20.27.44:815][880]LogDirectoryWatcher: A directory notification for 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Collections/' was aborted.
+[2017.11.14-20.27.44:815][880]LogDirectoryWatcher: A directory notification for 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/Developers/jacobclo6858/Collections/' was aborted.
+[2017.11.14-20.27.44:815][880]LogDirectoryWatcher: A directory notification for 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Saved/Collections/' was aborted.
+[2017.11.14-20.27.44:815][880]LogModuleManager: Shutting down and abandoning module StatsViewer (233)
+[2017.11.14-20.27.44:815][880]LogModuleManager: Shutting down and abandoning module FoliageEdit (232)
+[2017.11.14-20.27.44:815][880]LogModuleManager: Shutting down and abandoning module LandscapeEditor (231)
+[2017.11.14-20.27.44:844][880]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (230)
+[2017.11.14-20.27.44:844][880]LogModuleManager: Shutting down and abandoning module ActorPickerMode (229)
+[2017.11.14-20.27.44:844][880]LogModuleManager: Shutting down and abandoning module GeometryMode (228)
+[2017.11.14-20.27.44:844][880]LogModuleManager: Shutting down and abandoning module TextureAlignMode (227)
+[2017.11.14-20.27.44:844][880]LogModuleManager: Shutting down and abandoning module BspMode (226)
+[2017.11.14-20.27.44:857][880]LogModuleManager: Shutting down and abandoning module HardwareSurvey (225)
+[2017.11.14-20.27.44:858][880]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (224)
+[2017.11.14-20.27.44:868][880]LogModuleManager: Shutting down and abandoning module AutomationWorker (223)
+[2017.11.14-20.27.44:881][880]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (222)
+[2017.11.14-20.27.44:881][880]LogModuleManager: Shutting down and abandoning module PlacementMode (221)
+[2017.11.14-20.27.44:904][880]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (220)
+[2017.11.14-20.27.44:919][880]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (219)
+[2017.11.14-20.27.44:919][880]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (218)
+[2017.11.14-20.27.44:919][880]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (217)
+[2017.11.14-20.27.44:919][880]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (216)
+[2017.11.14-20.27.44:919][880]LogModuleManager: Shutting down and abandoning module Media (215)
+[2017.11.14-20.27.44:919][880]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (214)
+[2017.11.14-20.27.44:919][880]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (213)
+[2017.11.14-20.27.44:919][880]LogModuleManager: Shutting down and abandoning module CharacterAI (212)
+[2017.11.14-20.27.44:919][880]LogModuleManager: Shutting down and abandoning module SequenceRecorder (211)
+[2017.11.14-20.27.44:920][880]LogModuleManager: Shutting down and abandoning module AudioCapture (210)
+[2017.11.14-20.27.44:920][880]LogModuleManager: Shutting down and abandoning module SmartSnapping (209)
+[2017.11.14-20.27.44:920][880]LogModuleManager: Shutting down and abandoning module SessionServices (208)
+[2017.11.14-20.27.44:920][880]LogModuleManager: Shutting down and abandoning module ViewportSnapping (207)
+[2017.11.14-20.27.44:920][880]LogModuleManager: Shutting down and abandoning module ViewportInteraction (206)
+[2017.11.14-20.27.44:920][880]LogModuleManager: Shutting down and abandoning module LogVisualizer (205)
+[2017.11.14-20.27.44:945][880]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (204)
+[2017.11.14-20.27.44:960][880]LogModuleManager: Shutting down and abandoning module IntroTutorials (203)
+[2017.11.14-20.27.44:960][880]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (202)
+[2017.11.14-20.27.44:962][880]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (201)
+[2017.11.14-20.27.44:962][880]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (200)
+[2017.11.14-20.27.44:962][880]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (199)
+[2017.11.14-20.27.45:252][880]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (198)
+[2017.11.14-20.27.45:252][880]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (197)
+[2017.11.14-20.27.45:252][880]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (196)
+[2017.11.14-20.27.45:252][880]LogModuleManager: Shutting down and abandoning module InputBindingEditor (195)
+[2017.11.14-20.27.45:252][880]LogModuleManager: Shutting down and abandoning module NiagaraEditor (194)
+[2017.11.14-20.27.45:270][880]LogModuleManager: Shutting down and abandoning module MergeActors (193)
+[2017.11.14-20.27.45:282][880]LogModuleManager: Shutting down and abandoning module SizeMap (192)
+[2017.11.14-20.27.45:291][880]LogModuleManager: Shutting down and abandoning module TreeMap (191)
+[2017.11.14-20.27.45:307][880]LogModuleManager: Shutting down and abandoning module ReferenceViewer (190)
+[2017.11.14-20.27.45:307][880]LogModuleManager: Shutting down and abandoning module LocalizationService (189)
+[2017.11.14-20.27.45:319][880]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (188)
+[2017.11.14-20.27.45:345][880]LogModuleManager: Shutting down and abandoning module HardwareTargeting (187)
+[2017.11.14-20.27.45:345][880]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (186)
+[2017.11.14-20.27.45:362][880]LogModuleManager: Shutting down and abandoning module UndoHistory (185)
+[2017.11.14-20.27.45:370][880]LogModuleManager: Shutting down and abandoning module UserFeedback (184)
+[2017.11.14-20.27.45:370][880]LogModuleManager: Shutting down and abandoning module XmlParser (183)
+[2017.11.14-20.27.45:371][880]LogModuleManager: Shutting down and abandoning module Blutility (182)
+[2017.11.14-20.27.45:371][880]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (181)
+[2017.11.14-20.27.45:384][880]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (180)
+[2017.11.14-20.27.45:384][880]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (179)
+[2017.11.14-20.27.45:384][880]LogModuleManager: Shutting down and abandoning module SettingsEditor (178)
+[2017.11.14-20.27.45:384][880]LogModuleManager: Shutting down and abandoning module ProjectLauncher (177)
+[2017.11.14-20.27.45:414][880]LogModuleManager: Shutting down and abandoning module SessionFrontend (176)
+[2017.11.14-20.27.45:428][880]LogModuleManager: Shutting down and abandoning module ProfilerClient (175)
+[2017.11.14-20.27.45:442][880]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (174)
+[2017.11.14-20.27.45:442][880]LogModuleManager: Shutting down and abandoning module DeviceManager (173)
+[2017.11.14-20.27.45:535][880]LogModuleManager: Shutting down and abandoning module AutomationController (172)
+[2017.11.14-20.27.45:557][880]LogModuleManager: Shutting down and abandoning module AutomationWindow (171)
+[2017.11.14-20.27.45:570][880]LogModuleManager: Shutting down and abandoning module Layers (170)
+[2017.11.14-20.27.45:596][880]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (169)
+[2017.11.14-20.27.45:596][880]LogModuleManager: Shutting down and abandoning module DetailCustomizations (168)
+[2017.11.14-20.27.45:596][880]LogModuleManager: Shutting down and abandoning module PackagesDialog (167)
+[2017.11.14-20.27.45:596][880]LogModuleManager: Shutting down and abandoning module AnimGraph (166)
+[2017.11.14-20.27.45:596][880]LogModuleManager: Shutting down and abandoning module Persona (165)
+[2017.11.14-20.27.45:596][880]LogModuleManager: Shutting down and abandoning module Kismet (164)
+[2017.11.14-20.27.45:599][880]LogModuleManager: Shutting down and abandoning module GraphEditor (163)
+[2017.11.14-20.27.45:599][880]LogModuleManager: Shutting down and abandoning module ClassViewer (162)
+[2017.11.14-20.27.45:609][880]LogModuleManager: Shutting down and abandoning module Toolbox (161)
+[2017.11.14-20.27.45:610][880]LogModuleManager: Shutting down and abandoning module ModuleUI (160)
+[2017.11.14-20.27.45:627][880]LogModuleManager: Shutting down and abandoning module MovieSceneTools (159)
+[2017.11.14-20.27.45:652][880]LogModuleManager: Shutting down and abandoning module OutputLog (158)
+[2017.11.14-20.27.45:653][880]LogModuleManager: Shutting down and abandoning module GammaUI (157)
+[2017.11.14-20.27.45:653][880]LogModuleManager: Shutting down and abandoning module Documentation (156)
+[2017.11.14-20.27.45:653][880]LogModuleManager: Shutting down and abandoning module Niagara (155)
+[2017.11.14-20.27.45:653][880]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (154)
+[2017.11.14-20.27.45:653][880]LogModuleManager: Shutting down and abandoning module AnalyticsET (153)
+[2017.11.14-20.27.45:653][880]LogModuleManager: Shutting down and abandoning module PortalServices (152)
+[2017.11.14-20.27.45:653][880]LogModuleManager: Shutting down and abandoning module PortalRpc (151)
+[2017.11.14-20.27.45:653][880]LogModuleManager: Shutting down and abandoning module MessagingRpc (150)
+[2017.11.14-20.27.45:653][880]LogModuleManager: Shutting down and abandoning module GameplayDebugger (149)
+[2017.11.14-20.27.45:654][880]LogModuleManager: Shutting down and abandoning module AITestSuite (148)
+[2017.11.14-20.27.45:667][880]LogModuleManager: Shutting down and abandoning module AIModule (147)
+[2017.11.14-20.27.45:668][880]LogModuleManager: Shutting down and abandoning module ProfilerService (146)
+[2017.11.14-20.27.45:826][880]LogModuleManager: Shutting down and abandoning module TaskGraph (145)
+[2017.11.14-20.27.45:850][880]LogModuleManager: Shutting down and abandoning module SlateRemote (144)
+[2017.11.14-20.27.45:850][880]LogModuleManager: Shutting down and abandoning module SteamVRController (143)
+[2017.11.14-20.27.45:850][880]LogModuleManager: Shutting down and abandoning module SteamVR (142)
+[2017.11.14-20.27.45:860][880]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (141)
+[2017.11.14-20.27.45:860][880]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (140)
+[2017.11.14-20.27.45:860][880]LogModuleManager: Shutting down and abandoning module OculusLibrary (139)
+[2017.11.14-20.27.45:860][880]LogModuleManager: Shutting down and abandoning module OculusInput (138)
+[2017.11.14-20.27.45:860][880]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (137)
+[2017.11.14-20.27.45:861][880]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (136)
+[2017.11.14-20.27.45:861][880]LogModuleManager: Shutting down and abandoning module CableComponent (135)
+[2017.11.14-20.27.45:862][880]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (134)
+[2017.11.14-20.27.45:862][880]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (132)
+[2017.11.14-20.27.45:862][880]LogModuleManager: Shutting down and abandoning module HTML5Networking (131)
+[2017.11.14-20.27.45:862][880]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (130)
+[2017.11.14-20.27.45:862][880]LogModuleManager: Shutting down and abandoning module GeometryCache (129)
+[2017.11.14-20.27.45:862][880]LogModuleManager: Shutting down and abandoning module AlembicLibrary (128)
+[2017.11.14-20.27.45:876][880]LogModuleManager: Shutting down and abandoning module AlembicImporter (127)
+[2017.11.14-20.27.45:876][880]LogModuleManager: Shutting down and abandoning module SuperSearch (126)
+[2017.11.14-20.27.45:876][880]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (125)
+[2017.11.14-20.27.45:876][880]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (124)
+[2017.11.14-20.27.45:876][880]LogModuleManager: Shutting down and abandoning module PluginBrowser (123)
+[2017.11.14-20.27.45:887][880]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (122)
+[2017.11.14-20.27.45:889][880]LogModuleManager: Shutting down and abandoning module EpicSurvey (121)
+[2017.11.14-20.27.45:894][880]LogModuleManager: Shutting down and abandoning module DesktopPlatform (120)
+[2017.11.14-20.27.45:910][880]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (119)
+[2017.11.14-20.27.45:910][880]LogModuleManager: Shutting down and abandoning module UObjectPlugin (118)
+[2017.11.14-20.27.45:910][880]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (117)
+[2017.11.14-20.27.45:910][880]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (116)
+[2017.11.14-20.27.45:910][880]LogModuleManager: Shutting down and abandoning module SourceControl (115)
+[2017.11.14-20.27.45:915][880]LogModuleManager: Shutting down and abandoning module GitSourceControl (114)
+[2017.11.14-20.27.45:942][880]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (113)
+[2017.11.14-20.27.45:942][880]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (112)
+[2017.11.14-20.27.45:954][880]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (111)
+[2017.11.14-20.27.45:954][880]LogModuleManager: Shutting down and abandoning module MeshPaint (110)
+[2017.11.14-20.27.45:955][880]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (109)
+[2017.11.14-20.27.45:955][880]LogModuleManager: Shutting down and abandoning module HotReload (108)
+[2017.11.14-20.27.45:955][880]LogDirectoryWatcher: A directory notification for 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Binaries/Win64' was aborted.
+[2017.11.14-20.27.45:969][880]LogModuleManager: Shutting down and abandoning module MainFrame (107)
+[2017.11.14-20.27.45:969][880]LogModuleManager: Shutting down and abandoning module LevelEditor (106)
+[2017.11.14-20.27.45:971][880]LogModuleManager: Shutting down and abandoning module ContentBrowser (105)
+[2017.11.14-20.27.45:972][880]LogModuleManager: Shutting down and abandoning module Paper2DEditor (104)
+[2017.11.14-20.27.45:980][880]LogModuleManager: Shutting down and abandoning module UdpMessaging (103)
+[2017.11.14-20.27.46:080][880]LogModuleManager: Shutting down and abandoning module TcpMessaging (102)
+[2017.11.14-20.27.46:180][880]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (101)
+[2017.11.14-20.27.46:180][880]LogModuleManager: Shutting down and abandoning module Paper2D (100)
+[2017.11.14-20.27.46:180][880]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (99)
+[2017.11.14-20.27.46:180][880]LogModuleManager: Shutting down and abandoning module WmfMedia (98)
+[2017.11.14-20.27.46:181][880]LogModuleManager: Shutting down and abandoning module MediaAssets (97)
+[2017.11.14-20.27.46:181][880]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (96)
+[2017.11.14-20.27.46:181][880]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (95)
+[2017.11.14-20.27.46:201][880]LogModuleManager: Shutting down and abandoning module VREditor (94)
+[2017.11.14-20.27.46:201][880]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (93)
+[2017.11.14-20.27.46:201][880]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (92)
+[2017.11.14-20.27.46:225][880]LogModuleManager: Shutting down and abandoning module FunctionalTesting (91)
+[2017.11.14-20.27.46:225][880]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (90)
+[2017.11.14-20.27.46:225][880]LogModuleManager: Shutting down and abandoning module Sequencer (89)
+[2017.11.14-20.27.46:255][880]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (88)
+[2017.11.14-20.27.46:284][880]LogModuleManager: Shutting down and abandoning module MessageLog (87)
+[2017.11.14-20.27.46:284][880]LogModuleManager: Shutting down and abandoning module AssetTools (86)
+[2017.11.14-20.27.46:284][880]LogModuleManager: Shutting down and abandoning module UMGEditor (85)
+[2017.11.14-20.27.46:284][880]LogModuleManager: Shutting down and abandoning module UMG (84)
+[2017.11.14-20.27.46:284][880]LogModuleManager: Shutting down and abandoning module SlateReflector (83)
+[2017.11.14-20.27.46:300][880]LogModuleManager: Shutting down and abandoning module Slate (82)
+[2017.11.14-20.27.46:300][880]LogModuleManager: Shutting down and abandoning module EditorStyle (81)
+[2017.11.14-20.27.46:330][880]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (80)
+[2017.11.14-20.27.46:331][880]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (79)
+[2017.11.14-20.27.46:331][880]LogModuleManager: Shutting down and abandoning module XAudio2 (78)
+[2017.11.14-20.27.46:331][880]LogModuleManager: Shutting down and abandoning module Networking (76)
+[2017.11.14-20.27.46:331][880]LogModuleManager: Shutting down and abandoning module Core (75)
+[2017.11.14-20.27.46:331][880]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (74)
+[2017.11.14-20.27.46:331][880]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.11.14-20.27.46:331][880]LogDirectoryWatcher: A directory notification for 'D:/Users/jacob.clo6858/Documents/Git/Toa-Mini-Working/Toa_mini/Content/' was aborted.
+[2017.11.14-20.27.46:331][880]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.11.14-20.27.46:332][880]LogModuleManager: Shutting down and abandoning module AssetRegistry (73)
+[2017.11.14-20.27.46:502][880]LogModuleManager: Shutting down and abandoning module KismetCompiler (72)
+[2017.11.14-20.27.46:502][880]LogModuleManager: Shutting down and abandoning module PhysXFormats (71)
+[2017.11.14-20.27.46:502][880]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (70)
+[2017.11.14-20.27.46:533][880]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (69)
+[2017.11.14-20.27.46:591][880]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (68)
+[2017.11.14-20.27.46:592][880]LogModuleManager: Shutting down and abandoning module PropertyEditor (67)
+[2017.11.14-20.27.46:626][880]LogModuleManager: Shutting down and abandoning module MeshUtilities (66)
+[2017.11.14-20.27.46:626][880]LogModuleManager: Shutting down and abandoning module DerivedDataCache (65)
+[2017.11.14-20.27.46:707][880]LogDerivedDataCache: Shutdown
+[2017.11.14-20.27.46:707][880]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (64)
+[2017.11.14-20.27.46:707][880]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (63)
+[2017.11.14-20.27.46:707][880]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (62)
+[2017.11.14-20.27.46:725][880]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (61)
+[2017.11.14-20.27.46:740][880]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (60)
+[2017.11.14-20.27.46:740][880]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (59)
+[2017.11.14-20.27.46:740][880]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (58)
+[2017.11.14-20.27.46:740][880]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (57)
+[2017.11.14-20.27.46:751][880]LogModuleManager: Shutting down and abandoning module ImageWrapper (56)
+[2017.11.14-20.27.46:751][880]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (55)
+[2017.11.14-20.27.46:751][880]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (54)
+[2017.11.14-20.27.46:751][880]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (53)
+[2017.11.14-20.27.46:751][880]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (52)
+[2017.11.14-20.27.46:752][880]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (51)
+[2017.11.14-20.27.46:752][880]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (50)
+[2017.11.14-20.27.46:752][880]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (49)
+[2017.11.14-20.27.46:762][880]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (48)
+[2017.11.14-20.27.46:762][880]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (47)
+[2017.11.14-20.27.46:762][880]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (46)
+[2017.11.14-20.27.46:762][880]LogModuleManager: Shutting down and abandoning module Messaging (45)
+[2017.11.14-20.27.46:762][880]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (44)
+[2017.11.14-20.27.46:762][880]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (43)
+[2017.11.14-20.27.46:762][880]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (42)
+[2017.11.14-20.27.46:762][880]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (41)
+[2017.11.14-20.27.46:770][880]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (40)
+[2017.11.14-20.27.46:770][880]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (39)
+[2017.11.14-20.27.46:770][880]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (38)
+[2017.11.14-20.27.46:770][880]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (37)
+[2017.11.14-20.27.46:770][880]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (36)
+[2017.11.14-20.27.46:770][880]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (35)
+[2017.11.14-20.27.46:770][880]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (34)
+[2017.11.14-20.27.46:770][880]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (33)
+[2017.11.14-20.27.46:770][880]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (32)
+[2017.11.14-20.27.46:770][880]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (31)
+[2017.11.14-20.27.46:770][880]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (30)
+[2017.11.14-20.27.46:771][880]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (29)
+[2017.11.14-20.27.46:771][880]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (28)
+[2017.11.14-20.27.46:771][880]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (27)
+[2017.11.14-20.27.46:771][880]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2017.11.14-20.27.46:771][880]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2017.11.14-20.27.46:771][880]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2017.11.14-20.27.46:771][880]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2017.11.14-20.27.46:771][880]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2017.11.14-20.27.46:771][880]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (21)
+[2017.11.14-20.27.46:771][880]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (20)
+[2017.11.14-20.27.46:771][880]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (18)
+[2017.11.14-20.27.46:782][880]LogOnline:Display: Unloading online subsystem: NULL
+[2017.11.14-20.27.46:807][880]LogModuleManager: Shutting down and abandoning module SSL (17)
+[2017.11.14-20.27.46:834][880]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2017.11.14-20.27.46:834][880]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2017.11.14-20.27.46:864][880]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2017.11.14-20.27.46:864][880]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2017.11.14-20.27.46:864][880]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2017.11.14-20.27.46:864][880]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2017.11.14-20.27.46:866][880]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2017.11.14-20.27.46:875][880]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2017.11.14-20.27.46:875][880]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2017.11.14-20.27.46:875][880]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2017.11.14-20.27.46:875][880]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2017.11.14-20.27.46:875][880]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2017.11.14-20.27.46:875][880]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2017.11.14-20.27.46:881][880]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2017.11.14-20.27.46:893][880]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2017.11.14-20.27.46:893][880]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2017.11.14-20.27.46:910][880]LogExit: Exiting.
+[2017.11.14-20.27.46:922][880]Log file closed, 11/15/17 09:27:46
